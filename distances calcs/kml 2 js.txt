@@ -1,0 +1,897 @@
+google.maps.__gjsload__('kml', function(_) {
+    var n9 = function(a) {
+        if (a.Eg) {
+            var b = a.Eg.getCenter()
+              , c = a.get("projection");
+            var d = a.get("bounds");
+            var e = Uwb(a);
+            if (c && d && _.Lj(e)) {
+                d = _.Gs(c, d, e);
+                if (b) {
+                    const f = d.getCenter();
+                    (e = _.Hs(c, e)) && e !== Infinity && e !== 0 && (c && c.getPov && c.getPov().heading() % 180 !== 0 ? (b = f.y - b.y,
+                    b = _.Jj(b, -e / 2, e / 2) - b,
+                    d.minY += b,
+                    d.maxY += b) : (b = f.x - b.x,
+                    b = _.Jj(b, -e / 2, e / 2) - b,
+                    d.minX += b,
+                    d.maxX += b))
+                }
+                d.minX -= _.Xl.width;
+                d.minY -= _.Xl.height;
+                d.maxX -= _.Xl.width;
+                d.maxY -= _.Xl.height
+            } else
+                d = void 0;
+            b = a.Eg;
+            d = _.Am(Math.max(b.minX, d.minX), Math.max(b.minY, d.minY), Math.min(b.maxX, d.maxX), Math.min(b.maxY, d.maxY));
+            d.equals(a.Hg) || (a.set("croppedBounds", d),
+            a.Hg = d)
+        }
+    }
+      , Uwb = function(a) {
+        a = a.get("zoom");
+        return _.Lj(a) ? Math.round(a) : a
+    }
+      , Vwb = function(a, b) {
+        return {
+            vs: function(c) {
+                return c !== "dragstart" && c !== "drag" && c !== "dragend"
+            },
+            Ds: function(c, d) {
+                if (d)
+                    return null;
+                let e = null;
+                const f = c.latLng;
+                a.forEach(g => {
+                    if (!e) {
+                        var h = g.get("bounds");
+                        h && h.contains(f) && g.get("clickable") !== !1 && (e = g)
+                    }
+                }
+                );
+                return e
+            },
+            handleEvent: function(c, d, e) {
+                c === "mouseover" ? b.set("cursor", "pointer") : c === "mouseout" && b.set("cursor", null);
+                _.Sk(e, c, new _.uy(d.latLng,d.domEvent))
+            },
+            zIndex: 10
+        }
+    }
+      , o9 = function(a) {
+        a = a.get("zoom");
+        return _.Lj(a) ? Math.round(a) : a
+    }
+      , Wwb = function(a) {
+        a.Eg.forEach(b => {
+            b.VI = !0
+        }
+        )
+    }
+      , p9 = function(a, b) {
+        const c = a.get("projection");
+        a = o9(a);
+        return _.Fs(c, new _.Il(0,b), a).lat()
+    }
+      , Ywb = function(a, b) {
+        a.Eg.forEach(c => {
+            a.Fg(c)
+        }
+        );
+        a.Eg.forEach(c => {
+            Xwb(a, b, c)
+        }
+        )
+    }
+      , Xwb = function(a, b, c) {
+        var d = c.node = _.FG(a.url, a.Yg, c.KJ, c.cD, _.Wl, c.scaledSize);
+        d = c.Uy = new _.kra(a.Yg,10,{
+            image: d,
+            bounds: c.Vt,
+            size: c.cD
+        },a.ah.Hj);
+        a.ah.Ii(d);
+        _.kE(c.node, b)
+    }
+      , Zwb = function(a) {
+        switch (a) {
+        case 1:
+            return "OK";
+        case 2:
+            return "INVALID_REQUEST";
+        case 3:
+            return "DOCUMENT_NOT_FOUND";
+        case 4:
+            return "FETCH_ERROR";
+        case 5:
+            return "INVALID_DOCUMENT";
+        case 6:
+            return "DOCUMENT_TOO_LARGE";
+        case 7:
+            return "LIMITS_EXCEEDED";
+        case 9:
+            return "TIMED_OUT";
+        default:
+            return "UNKNOWN"
+        }
+    }
+      , q9 = function(a, b) {
+        return _.H(a.Gg, 2) === 0 ? a.getValue() * b : _.H(a.Gg, 2) === 2 ? b - a.getValue() : a.getValue()
+    }
+      , $wb = function(a, b, c) {
+        return _.H(a.Gg, 1) === 2 ? (a = _.H(_.J(a.Gg, 2, r9).Gg, 2) === 0 ? _.J(a.Gg, 2, r9).getValue() * b : _.J(a.Gg, 2, r9).getValue(),
+        a / c) : 1
+    }
+      , axb = function(a, b, c, d) {
+        return _.H(a.Gg, 1) === 0 ? b : _.H(a.Gg, 1) === 2 ? q9(_.J(a.Gg, 2, r9), c) : b * d
+    }
+      , dxb = function(a) {
+        const b = a.get("map");
+        a.get("screenOverlays") != 0 ? bxb(a, b) : cxb(a, b)
+    }
+      , exb = function(a) {
+        return a.get("url") ? a.get("url") : null
+    }
+      , jxb = function(a, b, c) {
+        b.__gm.Ug || (b.__gm.Ug = {},
+        _.Gj({
+            "false": _.my,
+            "true": _.Yy
+        }, function(d, e) {
+            b.__gm.Ug[d] = new fxb(new gxb(_.NB(_.qx, _.uo, e + "/maps/api/js/KmlOverlayService.GetOverlays", _.to)))
+        }));
+        if (a.Ng = c)
+            a.Lg = !0,
+            b.__gm.Ug[c.lastIndexOf("https://", 0) == 0].load(c, _.NB(hxb, _.NB(ixb, a, b, c))),
+            _.Cl(b, "Lk"),
+            _.M(b, 148070),
+            a.screenOverlays_changed = _.NB(dxb, a)
+    }
+      , ixb = function(a, b, c, d, e, f, g, h, k, m) {
+        if (a.get("map") == b && c == a.Ng && a.Lg) {
+            a.Lg = !1;
+            var p = exb(a);
+            if (p && p == c && (a.set("status", g),
+            g == "OK")) {
+                a.Eg = h;
+                a.Fg = k;
+                e && a.set("defaultViewport", e);
+                a.set("metadata", f);
+                a.Og = m;
+                c = c.lastIndexOf("https://", 0) == 0;
+                e = new kxb(c ? _.Yy : _.my);
+                f = _.BG(e);
+                g = new _.Yw;
+                g.layerId = d;
+                g.ay = c;
+                g.zIndex = a.get("zIndex") || 0;
+                for (const t in m)
+                    g.parameters[t] = m[t];
+                g.Hg = (0,
+                _.Fa)(f.load, f);
+                g.clickable = a.get("clickable") != 0;
+                a.Hg = g;
+                _.v_a(g, _.kQ(b));
+                a.Jg || (a.Jg = _.Gk(g, "click", (0,
+                _.Fa)(lxb, a, a, b)));
+                a.get("screenOverlays") != 0 && bxb(a, b);
+                for (d = 0; d < a.Fg.length; ++d)
+                    m = a.Fg[d],
+                    m.overlay.set("map", b),
+                    m.overlay.bindTo("clickable", a),
+                    mxb(e, m, a, b);
+                d = a.get("preserveViewport");
+                e = a.get("defaultViewport");
+                !d && e && b.fitBounds(e);
+                b = new _.yp;
+                b = new nxb(a,b);
+                b.bindTo("map", a);
+                b.bindTo("suppressInfoWindows", a);
+                a.Ig = b;
+                _.Gk(a, "clickable_changed", function() {
+                    a.Hg.clickable = a.get("clickable") != 0
+                })
+            }
+        }
+    }
+      , mxb = function(a, b, c, d) {
+        const e = new _.Y_a(c.Hg.layerId,b.layerId);
+        c = (0,
+        _.Fa)(oxb, c, c, d, b.overlay.get("bounds").getCenter(), null);
+        a = (0,
+        _.Fa)(a.load, a, e, c);
+        b.listener = _.Gk(b.overlay, "click", a)
+    }
+      , oxb = function(a, b, c, d, e) {
+        if (!e.infoWindowHtml) {
+            a: {
+                b = _.Ss("div");
+                b.setAttribute("style", "font-family: Roboto,Arial,sans-serif; font-size: small");
+                var f = _.Ss("div");
+                f.setAttribute("style", "font-weight: 500; font-size: medium; margin-bottom: 0");
+                if (e.info_window_html)
+                    _.nE(b, e.info_window_html),
+                    e.info_window_header_html && (f = e.info_window_header_html);
+                else if (e.name || e.description) {
+                    if (e.name && _.Os(e.name, f),
+                    e.description) {
+                        const k = _.Ss("div", b);
+                        _.nE(k, e.description)
+                    }
+                } else {
+                    b = {
+                        content: null,
+                        headerContent: null
+                    };
+                    break a
+                }
+                b = {
+                    content: b,
+                    headerContent: f
+                }
+            }
+            const {content: g, headerContent: h} = b;
+            f = "";
+            b = document.createElement("div");
+            g && (f = document.createElement("div"),
+            f.appendChild(g),
+            f = f.innerHTML);
+            h && (b = h);
+            e.infoWindowHtml = f;
+            e.infoWindowHeaderHtml = b
+        }
+        _.Sk(a, "click", {
+            latLng: c,
+            pixelOffset: d,
+            featureData: e
+        })
+    }
+      , lxb = function(a, b, c, d, e, f) {
+        oxb(a, b, d, e, f)
+    }
+      , hxb = function(a, b) {
+        if (b && a && b.getStatus() == 0) {
+            var c = []
+              , d = []
+              , e = {};
+            for (var f = 0; f < _.Fi(b.Gg, 6); ++f) {
+                var g = _.dr(b.Gg, 6, pxb, f);
+                if (_.Y(g.Gg, 6))
+                    g = {
+                        jh: _.J(g.Gg, 6, qxb)
+                    },
+                    d.push(g);
+                else if (_.Y(g.Gg, 5)) {
+                    var h = rxb(_.J(_.J(g.Gg, 5, sxb).Gg, 2, _.Hx));
+                    h = new _.Zl(_.J(_.J(g.Gg, 5, sxb).Gg, 1, txb).getUrl(),h);
+                    c.push({
+                        overlay: h,
+                        layerId: g.getId()
+                    })
+                }
+            }
+            f = _.L(b.Gg, 2);
+            g = rxb(_.J(b.Gg, 5, _.Hx));
+            if (h = _.J(b.Gg, 4, uxb)) {
+                var k = _.J(h.Gg, 4, vxb);
+                k = {
+                    name: k.ki(),
+                    email: _.L(k.Gg, 3),
+                    uri: _.L(k.Gg, 2)
+                };
+                h = {
+                    name: h.ki(),
+                    description: h.Wk(),
+                    snippet: _.L(h.Gg, 3),
+                    author: k,
+                    hasScreenOverlays: !1
+                }
+            } else
+                h = null;
+            h.hasScreenOverlays = !!d.length;
+            k = Zwb(_.H(b.Gg, 7));
+            for (var m = 0; m < _.Fi(b.Gg, 10); ++m) {
+                var p = _.dr(b.Gg, 10, _.uQ, m);
+                e[p.getKey()] = p.getValue()
+            }
+            for (m = 0; m < _.Fi(b.Gg, 8); ++m)
+                p = _.dr(b.Gg, 8, _.uQ, m),
+                e[p.getKey()] = p.getValue();
+            a(f, g, h, k, d, c, e)
+        }
+    }
+      , xxb = function(a) {
+        var b = a.__gm.screenOverlays;
+        return b ? b : (b = new _.cn,
+        a.__gm.screenOverlays = b,
+        (new wxb(b)).bindTo("innerContainer", a.__gm),
+        b)
+    }
+      , cxb = function(a, b) {
+        if (a.Eg) {
+            b = xxb(b);
+            for (let c = 0; c < a.Eg.length; ++c)
+                b.remove(a.Eg[c])
+        }
+    }
+      , bxb = function(a, b) {
+        if (a.Eg) {
+            b = xxb(b);
+            for (let c = a.Eg.length - 1; c >= 0; --c)
+                _.dn(b, a.Eg[c])
+        }
+    }
+      , rxb = function(a) {
+        const b = new _.sk(_.Zs(_.J(a.Gg, 2, _.et).Gg, 1),_.Zs(_.J(a.Gg, 2, _.et).Gg, 2));
+        a = new _.sk(_.Zs(_.J(a.Gg, 1, _.et).Gg, 1),_.Zs(_.J(a.Gg, 1, _.et).Gg, 2));
+        return new _.tl(a,b)
+    };
+    var vxb = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        ki() {
+            return _.L(this.Gg, 1)
+        }
+    }
+    ;
+    var yxb = class extends _.V {
+        constructor() {
+            super()
+        }
+        gj() {
+            return _.L(this.Gg, 2)
+        }
+    }
+      , zxb = [_.N, , _.Yo, _.M0a];
+    var txb = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        Bk() {
+            return _.Y(this.Gg, 1)
+        }
+        getUrl() {
+            return _.L(this.Gg, 1)
+        }
+        setUrl(a) {
+            _.bj(this.Gg, 1, a)
+        }
+    }
+    ;
+    var sxb = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        Ig() {
+            return _.Vi(this.Gg, 2, _.Hx)
+        }
+        mB(a) {
+            _.er(this.Gg, 2, a, _.Hx)
+        }
+    }
+    ;
+    var r9 = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        getValue() {
+            return _.hj(this.Gg, 1)
+        }
+    }
+    ;
+    var s9 = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        getSize() {
+            return _.Vi(this.Gg, 2, r9)
+        }
+        setSize(a) {
+            _.er(this.Gg, 2, a, r9)
+        }
+    }
+    ;
+    var t9 = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+    }
+    ;
+    var u9 = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+    }
+    ;
+    var qxb = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        getSize() {
+            return _.Vi(this.Gg, 4, t9)
+        }
+        setSize(a) {
+            _.er(this.Gg, 4, a, t9)
+        }
+    }
+    ;
+    var pxb = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        getId() {
+            return _.L(this.Gg, 1)
+        }
+    }
+    ;
+    var uxb = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        ki() {
+            return _.L(this.Gg, 1)
+        }
+        Wk() {
+            return _.L(this.Gg, 2)
+        }
+    }
+    ;
+    var Axb = class extends _.V {
+        constructor() {
+            super()
+        }
+        Bk() {
+            return _.Y(this.Gg, 1)
+        }
+        getUrl() {
+            return _.L(this.Gg, 1)
+        }
+        setUrl(a) {
+            _.bj(this.Gg, 1, a)
+        }
+    }
+      , Bxb = [_.N, _.P, 1];
+    var Cxb = class extends _.V {
+        constructor(a) {
+            super(a)
+        }
+        getStatus() {
+            return _.H(this.Gg, 1, -1)
+        }
+        getDefaultViewport() {
+            return _.Vi(this.Gg, 5, _.Hx)
+        }
+        Sl(a) {
+            _.Yr(this.Gg, 6, a)
+        }
+    }
+    ;
+    var fxb = class {
+        constructor(a) {
+            this.bC = a;
+            this.Eg = 0;
+            this.Zo = []
+        }
+        load(a, b) {
+            this.Eg++;
+            b = _.dE(this.Fg.bind(this, b));
+            this.bC.load(a, b)
+        }
+        Fg(a, b) {
+            this.Zo.push(a.bind(null, b));
+            this.Eg--;
+            if (this.Eg === 0) {
+                for (a = 0; a < this.Zo.length; ++a)
+                    this.Zo[a]();
+                this.Zo = []
+            }
+        }
+    }
+    ;
+    var Dxb = class extends _.Vk {
+        constructor() {
+            super();
+            this.Hg = this.Eg = null;
+            this.Fg = new _.Zm( () => {
+                var a = Uwb(this)
+                  , b = this.get("projection");
+                if (b && _.Lj(a)) {
+                    var c = this.get("mapBounds");
+                    if (c) {
+                        var d = 2 ** a
+                          , e = _.lr(c);
+                        c = _.kr(c);
+                        var f = e.lng()
+                          , g = c.lng();
+                        f > g && (c = new _.sk(c.lat(),Number(g) + 360,!0));
+                        e = b.fromLatLngToPoint(e);
+                        c = b.fromLatLngToPoint(c);
+                        e && c && (e.x *= d,
+                        e.y *= d,
+                        c.x *= d,
+                        c.y *= d);
+                        d = new _.zm([e, c]);
+                        d = _.Am(d.minX, d.minY, d.maxX, d.maxY);
+                        a = _.Fka(b, a);
+                        b = (d.minX + d.maxX) / 2;
+                        a = b - _.Jj(b, 0, Math.sqrt(a.x * a.x + a.y * a.y));
+                        d.maxX -= a;
+                        d.minX -= a;
+                        this.Eg && this.Eg.containsBounds(d) || (a = d.getCenter(),
+                        b = d.getSize(),
+                        this.Eg = new _.zm([new _.Il(a.x - b.width,a.y - b.height), new _.Il(a.x + b.width,a.y + b.height)]));
+                        n9(this)
+                    }
+                }
+            }
+            ,0)
+        }
+        projection_changed() {
+            n9(this)
+        }
+        bounds_changed() {
+            n9(this)
+        }
+        projectionBounds_changed() {
+            _.$m(this.Fg)
+        }
+        mapBounds_changed() {
+            _.$m(this.Fg)
+        }
+    }
+    ;
+    var Exb = class extends _.Vk {
+        constructor(a, b) {
+            super();
+            this.Fg = a;
+            this.Eg = b;
+            this.Hg = new _.Zm( () => {
+                var c = this.get("projection")
+                  , d = this.get("bounds")
+                  , e = o9(this);
+                Wwb(this);
+                if (c && d && _.Lj(e) && !d.isEmpty()) {
+                    var f = Math.round(d.minY);
+                    d = Math.round(d.maxY);
+                    c = this.get("projection");
+                    var g = o9(this)
+                      , h = this.Fg;
+                    e = _.lr(h).lng();
+                    const w = _.kr(h).lng();
+                    g = _.Gs(c, h, g);
+                    g = Math.round(g.getSize().width);
+                    h = h.getNorthEast().lat() - h.getSouthWest().lat();
+                    for (var k = p9(this, f), m = f; f <= d; ++f) {
+                        const y = p9(this, f);
+                        var p = m
+                          , t = f
+                          , u = k;
+                        const z = (u + y) / 2
+                          , B = p9(this, (p + t) / 2)
+                          , D = Math.abs(f - m);
+                        if (Math.abs((p - t) / (y - u) * (B - z)) >= 1 && D > 10 || f === d)
+                            k = new _.sk(k,w),
+                            p = new _.sk(y,e),
+                            m = new _.Kl(g,f - m),
+                            k = new _.tl(p,k),
+                            p = _.lr(k).lat(),
+                            t = _.kr(k).lat(),
+                            t = m.height / (p - t),
+                            u = (_.lr(this.Fg).lat() - p) * t,
+                            p = Math.abs(h * t),
+                            t = new _.Il(0,u),
+                            u = _.lr(k),
+                            m = {
+                                KJ: t,
+                                position: u,
+                                cD: m,
+                                scaledSize: new _.Kl(m.width,p),
+                                Uy: null
+                            },
+                            p = k,
+                            k = _.lr(p),
+                            p = _.kr(p),
+                            t = k.lng(),
+                            u = p.lng(),
+                            t > u && (p = new _.sk(p.lat(),u + 360,!0)),
+                            k = {
+                                min: _.Ds(k, c),
+                                max: _.Ds(p, c)
+                            },
+                            m.Vt = k,
+                            _.dn(this.Eg, m),
+                            m = f,
+                            k = y
+                    }
+                }
+                _.dE(this.Ig.bind(this))()
+            }
+            ,0)
+        }
+        changed(a) {
+            a !== "bounds" && a !== "projection" || _.$m(this.Hg)
+        }
+        Ig() {
+            this.Eg.forEach(a => {
+                a.VI && this.Eg.remove(a)
+            }
+            )
+        }
+    }
+    ;
+    var Fxb = class extends _.Vk {
+        constructor(a, b, c, d) {
+            super();
+            this.url = a;
+            this.Yg = b;
+            this.Eg = c;
+            this.ah = d;
+            _.Gk(c, "insert", this.Hg.bind(this));
+            _.Gk(c, "remove", this.Fg.bind(this));
+            setTimeout( () => {
+                if (this.Eg.getSize()) {
+                    var e = this.getOpacity();
+                    Ywb(this, e)
+                }
+                0
+            }
+            )
+        }
+        opacity_changed() {
+            const a = this.getOpacity();
+            this.Eg.forEach(b => {
+                _.kE(b.node, a)
+            }
+            )
+        }
+        getOpacity() {
+            return _.Nj(this.get("opacity"), 1)
+        }
+        Hg(a) {
+            const b = this.getOpacity();
+            Xwb(this, b, a)
+        }
+        Fg(a) {
+            a.node && (a.Uy && this.ah && this.ah.vl(a.Uy),
+            a.node = null)
+        }
+    }
+    ;
+    var kxb = class {
+        constructor(a) {
+            this.fetch = _.NB(_.qx, _.uo, a + "/maps/api/js/KmlOverlayService.GetFeature", _.to)
+        }
+        load(a, b) {
+            const c = new yxb;
+            _.bj(c.Gg, 1, a.layerId);
+            _.bj(c.Gg, 2, `${a.featureId}`);
+            if (a.parameters)
+                for (const d of Object.getOwnPropertyNames(a.parameters)) {
+                    const e = _.Yi(c.Gg, 3, _.uQ);
+                    _.bj(e.Gg, 1, d);
+                    _.bj(e.Gg, 2, a.parameters[d])
+                }
+            a = _.yn(c, zxb);
+            this.fetch(a, b, b);
+            return a
+        }
+        cancel() {
+            throw Error("Not implemented");
+        }
+    }
+    ;
+    var gxb = class {
+        constructor(a) {
+            this.Hg = a
+        }
+        load(a, b) {
+            var c = new Axb;
+            c.setUrl(a);
+            a = _.yn(c, Bxb);
+            c = (0,
+            _.Fa)(this.Fg, this, b);
+            b = (0,
+            _.Fa)(this.Eg, this, b);
+            this.Hg(a, c, b)
+        }
+        Eg(a) {
+            a(null)
+        }
+        Fg(a, b) {
+            b = new Cxb(b);
+            a(b)
+        }
+    }
+    ;
+    var wxb = class extends _.Vk {
+        constructor(a) {
+            super();
+            this.Fg = a;
+            this.Eg = this.Hg = null;
+            _.Ok(this.Fg, "insert", this, this.Ig);
+            _.Ok(this.Fg, "remove", this, this.Kg)
+        }
+        innerContainer_changed() {
+            const a = this.Eg;
+            this.Eg = this.get("innerContainer");
+            this.Hg && (_.Ik(this.Hg),
+            delete this.Hg);
+            a && this.Fg.forEach(b => {
+                this.Kg(b)
+            }
+            );
+            this.Eg && (this.Hg = _.Ok(this.Eg, "resize", this, this.Mg),
+            this.Fg.forEach((0,
+            _.Fa)(this.Ig, this)))
+        }
+        Mg() {
+            const a = this;
+            _.dE( () => {
+                a.Fg.forEach((0,
+                _.Fa)(a.Jg, a))
+            }
+            )()
+        }
+        Ig(a) {
+            if (this.Eg) {
+                var b = _.qn(this.Eg);
+                b = _.Ss("div", this.Eg, new _.Il(b.width,b.height));
+                _.Qs(b);
+                _.Ts(b, 2);
+                a.nh = b;
+                b = _.Ss("div", a.nh, new _.Il(0,0), null, !0);
+                _.Qs(b);
+                a.Pw = b;
+                b = {
+                    ds: (0,
+                    _.Fa)(this.Lg, this, a)
+                };
+                a.image = _.DG(_.J(a.jh.Gg, 1, txb).getUrl(), a.nh, null, null, b)
+            }
+        }
+        Kg(a) {
+            a.nh && _.bt(a.nh);
+            a.Pw && _.bt(a.Pw);
+            a.image && _.bt(a.image);
+            a.nh = null;
+            a.image = null;
+            a.Pw = null
+        }
+        Lg(a, b, c) {
+            a.nh && c && (a.image = c,
+            _.Qs(c),
+            this.Jg(a))
+        }
+        Jg(a) {
+            var b = _.qn(this.Eg);
+            var c = _.qn(a.image);
+            var d = $wb(_.J(_.J(a.jh.Gg, 4, t9).Gg, 1, s9), b.width, c.width)
+              , e = $wb(_.J(_.J(a.jh.Gg, 4, t9).Gg, 2, s9), b.height, c.height);
+            e = axb(_.J(_.J(a.jh.Gg, 4, t9).Gg, 1, s9), c.width, b.width, e);
+            c = axb(_.J(_.J(a.jh.Gg, 4, t9).Gg, 2, s9), c.height, b.height, d);
+            c = new _.Kl(e,c);
+            d = q9(_.J(_.J(a.jh.Gg, 3, u9).Gg, 1, r9), b.width);
+            e = q9(_.J(_.J(a.jh.Gg, 3, u9).Gg, 2, r9), b.height);
+            e = b.height - e - c.height;
+            b = q9(_.J(_.J(a.jh.Gg, 2, u9).Gg, 1, r9), c.width);
+            const f = q9(_.J(_.J(a.jh.Gg, 2, u9).Gg, 2, r9), c.height);
+            _.Rs(a.nh, new _.Il(d - b,e + f));
+            _.pn(a.nh, c);
+            _.pn(a.image, c);
+            _.pn(a.Pw, c)
+        }
+    }
+    ;
+    var nxb = class extends _.Vk {
+        constructor(a, b) {
+            super();
+            this.infoWindow = b;
+            this.listener = _.Ok(a, "click", this, this.Eg)
+        }
+        remove() {
+            this.infoWindow.close();
+            _.Ik(this.listener)
+        }
+        changed() {
+            this.infoWindow.close()
+        }
+        suppressInfoWindows_changed() {
+            this.get("suppressInfoWindows") && this.infoWindow.close()
+        }
+        Eg(a) {
+            if (a) {
+                var b = this.get("map");
+                if (b && !this.get("suppressInfoWindows")) {
+                    var c = a.featureData
+                      , d = c && c.infoWindowHtml || a.infoWindowHtml;
+                    d && (this.infoWindow.setOptions({
+                        pixelOffset: a.pixelOffset,
+                        position: a.latLng,
+                        content: d,
+                        headerContent: c && c.infoWindowHeaderHtml || a.infoWindowHeaderHtml
+                    }),
+                    this.infoWindow.open(b))
+                }
+            }
+        }
+    }
+    ;
+    var v9 = class {
+    }
+    ;
+    v9.prototype.Fg = function(a) {
+        var b = a.Mg;
+        const c = a.Mg = a.get("map")
+          , d = exb(a);
+        if (b) {
+            a.Lg = !1;
+            a.Hg && _.X_a(a.Hg, b);
+            a.Jg && (_.Ik(a.Jg),
+            delete a.Jg);
+            cxb(a, b);
+            delete a.screenOverlays_changed;
+            if (a.Fg)
+                for (b = 0; b < a.Fg.length; ++b) {
+                    const e = a.Fg[b];
+                    e.overlay.set("map", null);
+                    e.listener && (_.Ik(e.listener),
+                    delete e.listener)
+                }
+            a.Ig && (a.Ig.remove(),
+            a.Ig.unbindAll(),
+            delete a.Ig)
+        }
+        c && jxb(a, c, d)
+    }
+    ;
+    v9.prototype.Eg = function(a) {
+        const b = a.get("map")
+          , c = b && b.__gm;
+        a.Nh && a.Nh.Tg.remove(a);
+        (a.Nh = c) && _.dn(c.Tg, a);
+        if (c && !c.dh) {
+            var d = Vwb(c.Tg, c);
+            c.dh = d;
+            c.Kg.register(d)
+        }
+        a.Fg && (a.Fg.set("bounds", null),
+        a.Ig.unbindAll(),
+        a.Fg.unbindAll(),
+        a.Hg.then(function(f) {
+            f.unbindAll()
+        }),
+        delete a.Ig,
+        delete a.Fg,
+        delete a.Hg);
+        if (b) {
+            var e = a.get("bounds");
+            const f = a.get("url")
+              , g = c.get("panes").overlayLayer
+              , h = new _.cn;
+            a.Eg = h;
+            d = new Dxb;
+            d.bindTo("mapBounds", b, "bounds");
+            d.bindTo("projection", b);
+            d.bindTo("zoom", b);
+            d.set("bounds", e);
+            a.Ig = d;
+            e = new Exb(e,h);
+            e.bindTo("zoom", b);
+            e.bindTo("projection", b);
+            e.bindTo("bounds", d, "croppedBounds");
+            a.Fg = e;
+            a.Hg = c.Fg.then( ({ah: k}) => {
+                k = new Fxb(f,g,h,k);
+                k.bindTo("opacity", a);
+                return k
+            }
+            );
+            _.Cl(b, "Og");
+            _.M(b, 148069)
+        }
+    }
+    ;
+    _.xj("kml", new v9);
+});

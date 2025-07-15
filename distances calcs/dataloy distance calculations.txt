@@ -1,0 +1,1778 @@
+"{\"voyageSensitivityAnalysis\":\"{\\\"voyageSensitivityAnalysisParameters\\\":null,\\\"voyageSensitivityAnalysisCalculation\\\":{}}\",\"_persist\":\"{\\\"version\\\":\\\"6.35.0\\\",\\\"rehydrated\\\":true}\"}"
+
+
+"{\"settings\":\"{\\\"firstVisibleColumn\\\":0,\\\"visibleColumns\\\":3,\\\"visiblePorts\\\":6,\\\"rowGrouping\\\":\\\"NONE\\\",\\\"columnGrouping\\\":\\\"VESSEL\\\",\\\"selectedTab\\\":0,\\\"showCommitments\\\":true,\\\"scheduler\\\":{\\\"timeUnitIndex\\\":2,\\\"earliestVisibleDate\\\":null,\\\"latestVisibleDate\\\":null}}\",\"_persist\":\"{\\\"version\\\":\\\"6.35.0\\\",\\\"rehydrated\\\":true}\"}"
+
+"{\"_persist\":\"{\\\"version\\\":\\\"6.35.0\\\",\\\"rehydrated\\\":true}\"}"
+
+{
+    "distanceHeaderList": [
+        {
+            "routeName": "  -  ",
+            "distance": 3393.752,
+            "ecaDistance": 886.09796,
+            "sequenceIndex": [
+                0,
+                143
+            ]
+        }
+    ],
+    "ecaDistance": 886.0979514353988,
+    "terminalList": [
+        {
+            "lat": 57.048959,
+            "lon": 9.942031,
+            "portName": " ",
+            "routingid": -1506631912,
+            "distanceid": -1506631912,
+            "distance": 0.16995747079457058,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.051555,
+            "lon": 9.939956,
+            "portName": " ",
+            "routingid": -1506631911,
+            "distanceid": -1506631911,
+            "distance": 0.7758251688109794,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.058086,
+            "lon": 9.960458,
+            "portName": " ",
+            "routingid": -1506631910,
+            "distanceid": -1506631910,
+            "distance": 0.5456620493876716,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.066134,
+            "lon": 9.968223,
+            "portName": " ",
+            "routingid": -1506631909,
+            "distanceid": -1506631909,
+            "distance": 0.9282829079684723,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.079256,
+            "lon": 9.983265,
+            "portName": " ",
+            "routingid": -1506631908,
+            "distanceid": -1506631908,
+            "distance": 0.4952009667614778,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.08374,
+            "lon": 9.996003,
+            "portName": " ",
+            "routingid": -1506631907,
+            "distanceid": -1506631907,
+            "distance": 0.45522602848244886,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.083674,
+            "lon": 10.009955,
+            "portName": " ",
+            "routingid": -1506631906,
+            "distanceid": -1506631906,
+            "distance": 0.5576998928046296,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.079388,
+            "lon": 10.025119,
+            "portName": " ",
+            "routingid": -1506631905,
+            "distanceid": -1506631905,
+            "distance": 1.04650958392851,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.064815,
+            "lon": 10.04271,
+            "portName": " ",
+            "routingid": -1506631904,
+            "distanceid": -1506631904,
+            "distance": 0.8993744479629218,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.05393,
+            "lon": 10.061635,
+            "portName": " ",
+            "routingid": -1506631903,
+            "distanceid": -1506631903,
+            "distance": 2.248812396564162,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.033406,
+            "lon": 10.119229,
+            "portName": " ",
+            "routingid": -1506631902,
+            "distanceid": -1506631902,
+            "distance": 3.328459094214061,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.994074,
+            "lon": 10.190986,
+            "portName": " ",
+            "routingid": -1506631901,
+            "distanceid": -1506631901,
+            "distance": 1.496943167806167,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.982937,
+            "lon": 10.23193,
+            "portName": " ",
+            "routingid": -1506631900,
+            "distanceid": -1506631900,
+            "distance": 1.0776494318037295,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.984061,
+            "lon": 10.264806,
+            "portName": " ",
+            "routingid": -1506631899,
+            "distanceid": -1506631899,
+            "distance": 1.0219412584574823,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.987564,
+            "lon": 10.295377,
+            "portName": " ",
+            "routingid": -1506631898,
+            "distanceid": -1506631898,
+            "distance": 0.30326389272635274,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.988093,
+            "lon": 10.304597,
+            "portName": " ",
+            "routingid": -1506631897,
+            "distanceid": -1506631897,
+            "distance": 0.3205428758738854,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.98611,
+            "lon": 10.313695,
+            "portName": " ",
+            "routingid": -1506631896,
+            "distanceid": -1506631896,
+            "distance": 0.6651666155477629,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.978178,
+            "lon": 10.327889,
+            "portName": " ",
+            "routingid": -1506631895,
+            "distanceid": -1506631895,
+            "distance": 0.6294215520836046,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.971103,
+            "lon": 10.342083,
+            "portName": " ",
+            "routingid": -1506631894,
+            "distanceid": -1506631894,
+            "distance": 1.176655640458045,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.962704,
+            "lon": 10.374565,
+            "portName": " ",
+            "routingid": -1506631893,
+            "distanceid": -1506631893,
+            "distance": 0.2425939564318086,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 56.962079,
+            "lon": 10.381887,
+            "portName": " ",
+            "routingid": -1506631892,
+            "distanceid": -1506631892,
+            "distance": 12.47953519397835,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.048865,
+            "lon": 10.728713,
+            "portName": " ",
+            "routingid": -1506631891,
+            "distanceid": -1506631891,
+            "distance": 33.39992853394916,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.601045,
+            "lon": 10.853746,
+            "portName": " ",
+            "routingid": -1506631890,
+            "distanceid": -1506631890,
+            "distance": 11.808380316138711,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.77744,
+            "lon": 10.691019,
+            "portName": " ",
+            "routingid": -1506631888,
+            "distanceid": -1506631888,
+            "distance": 3.9475706492909914,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.79868,
+            "lon": 10.574289,
+            "portName": " ",
+            "routingid": -1506631887,
+            "distanceid": -1506631887,
+            "distance": 22.709118300333603,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.641913,
+            "lon": 9.929756,
+            "portName": " ",
+            "routingid": -1506631886,
+            "distanceid": -1506631886,
+            "distance": 16.220412326849235,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.511043,
+            "lon": 9.488957,
+            "portName": " ",
+            "routingid": -1506631885,
+            "distanceid": -1506631885,
+            "distance": 55.08904248636545,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 57.0,
+            "lon": 8.080045,
+            "portName": " ",
+            "routingid": -1506631884,
+            "distanceid": -1506631884,
+            "distance": 247.83351657577808,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 53.375846,
+            "lon": 4.614479,
+            "portName": " ",
+            "routingid": -1506631883,
+            "distanceid": -1506631883,
+            "distance": 10.398055543500963,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 53.216357,
+            "lon": 4.501545,
+            "portName": " ",
+            "routingid": -1506631882,
+            "distanceid": -1506631882,
+            "distance": 4.684219879689482,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 53.147296,
+            "lon": 4.44098,
+            "portName": " ",
+            "routingid": -1506631881,
+            "distanceid": -1506631881,
+            "distance": 18.543004380077548,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 52.91437,
+            "lon": 4.103753,
+            "portName": " ",
+            "routingid": -1506631880,
+            "distanceid": -1506631880,
+            "distance": 9.108538099617101,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 52.800987,
+            "lon": 3.936821,
+            "portName": " ",
+            "routingid": -1506631879,
+            "distanceid": -1506631879,
+            "distance": 26.963138143132564,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 52.466112,
+            "lon": 3.44379,
+            "portName": " ",
+            "routingid": -1506631878,
+            "distanceid": -1506631878,
+            "distance": 15.202982950336917,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 52.26868,
+            "lon": 3.18413,
+            "portName": " ",
+            "routingid": -1506631877,
+            "distanceid": -1506631877,
+            "distance": 3.4368058113625652,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 52.223993,
+            "lon": 3.125704,
+            "portName": " ",
+            "routingid": -1506631876,
+            "distanceid": -1506631876,
+            "distance": 26.958303795138214,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 51.874073,
+            "lon": 2.668206,
+            "portName": " ",
+            "routingid": -1506631875,
+            "distanceid": -1506631875,
+            "distance": 7.985103567498573,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 51.770406,
+            "lon": 2.533419,
+            "portName": " ",
+            "routingid": -1506631874,
+            "distanceid": -1506631874,
+            "distance": 4.629795662477224,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 51.711245,
+            "lon": 2.453547,
+            "portName": " ",
+            "routingid": -1506631873,
+            "distanceid": -1506631873,
+            "distance": 26.96054644749629,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 51.367367,
+            "lon": 1.989275,
+            "portName": " ",
+            "routingid": -1506631872,
+            "distanceid": -1506631872,
+            "distance": 7.450797086829518,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 51.275144,
+            "lon": 1.856409,
+            "portName": " ",
+            "routingid": -1506631871,
+            "distanceid": -1506631871,
+            "distance": 9.249315166348532,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 51.160879,
+            "lon": 1.691453,
+            "portName": " ",
+            "routingid": -1506631870,
+            "distanceid": -1506631870,
+            "distance": 5.219536814642058,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 51.096398,
+            "lon": 1.598545,
+            "portName": " ",
+            "routingid": -1506631869,
+            "distanceid": -1506631869,
+            "distance": 9.917024152652438,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.973884,
+            "lon": 1.42238,
+            "portName": " ",
+            "routingid": -1506631868,
+            "distanceid": -1506631868,
+            "distance": 7.274161241010291,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.868336,
+            "lon": 1.328024,
+            "portName": " ",
+            "routingid": -1506631867,
+            "distanceid": -1506631867,
+            "distance": 1.1274927605040166,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.854352,
+            "lon": 1.308167,
+            "portName": " ",
+            "routingid": -1506631866,
+            "distanceid": -1506631866,
+            "distance": 8.244424493145077,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.752155,
+            "lon": 1.16305,
+            "portName": " ",
+            "routingid": -1506631865,
+            "distanceid": -1506631865,
+            "distance": 5.538580682765659,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.683556,
+            "lon": 1.065639,
+            "portName": " ",
+            "routingid": -1506631864,
+            "distanceid": -1506631864,
+            "distance": 8.319798713023898,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.580593,
+            "lon": 0.919434,
+            "portName": " ",
+            "routingid": -1506631863,
+            "distanceid": -1506631863,
+            "distance": 12.661275794648843,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.517847,
+            "lon": 0.602589,
+            "portName": " ",
+            "routingid": -1506631862,
+            "distanceid": -1506631862,
+            "distance": 26.936761787898643,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.384606,
+            "lon": -0.070224,
+            "portName": " ",
+            "routingid": -1506631861,
+            "distanceid": -1506631861,
+            "distance": 12.114660303549867,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.333315,
+            "lon": -0.376109,
+            "portName": " ",
+            "routingid": -1506631860,
+            "distanceid": -1506631860,
+            "distance": 26.873831232229225,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.219721,
+            "lon": -1.053553,
+            "portName": " ",
+            "routingid": -1506631859,
+            "distanceid": -1506631859,
+            "distance": 26.933779117422084,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 50.106127,
+            "lon": -1.730997,
+            "portName": " ",
+            "routingid": -1506631858,
+            "distanceid": -1506631858,
+            "distance": 26.993637052759674,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 49.992533,
+            "lon": -2.408441,
+            "portName": " ",
+            "routingid": -1506631857,
+            "distanceid": -1506631857,
+            "distance": 19.25873681762512,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 49.908579,
+            "lon": -2.88957,
+            "portName": " ",
+            "routingid": -1506631856,
+            "distanceid": -1506631856,
+            "distance": 14.35827704336972,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 49.787494,
+            "lon": -3.209387,
+            "portName": " ",
+            "routingid": -1506631855,
+            "distanceid": -1506631855,
+            "distance": 26.86804290137011,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 49.561516,
+            "lon": -3.806258,
+            "portName": " ",
+            "routingid": -1506631854,
+            "distanceid": -1506631854,
+            "distance": 26.96094954877335,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 49.335538,
+            "lon": -4.403129,
+            "portName": " ",
+            "routingid": -1506631853,
+            "distanceid": -1506631853,
+            "distance": 27.053681662950773,
+            "routingPart": 0,
+            "eca": 1,
+            "wpId": 1
+        },
+        {
+            "lat": 49.10955900003786,
+            "lon": -4.9999999999,
+            "portName": "Intersection North Sea and Baltic",
+            "routingid": -1506631767,
+            "distanceid": -1506631767,
+            "distance": 4.540356804786614E-9,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 49.109559,
+            "lon": -5.0,
+            "portName": " ",
+            "routingid": -1506631852,
+            "distanceid": -1506631852,
+            "distance": 23.197190606159218,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 48.916407,
+            "lon": -5.51017,
+            "portName": " ",
+            "routingid": -1506631851,
+            "distanceid": -1506631851,
+            "distance": 21.555006395617074,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 48.642143,
+            "lon": -5.861724,
+            "portName": " ",
+            "routingid": -1506631850,
+            "distanceid": -1506631850,
+            "distance": 26.733584699706704,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 48.246339,
+            "lon": -6.169181,
+            "portName": " ",
+            "routingid": -1506631849,
+            "distanceid": -1506631849,
+            "distance": 26.77731288358999,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 47.850535,
+            "lon": -6.476639,
+            "portName": " ",
+            "routingid": -1506631848,
+            "distanceid": -1506631848,
+            "distance": 26.820943985141994,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 47.454732,
+            "lon": -6.784096,
+            "portName": " ",
+            "routingid": -1506631847,
+            "distanceid": -1506631847,
+            "distance": 26.864684854732943,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 47.058928,
+            "lon": -7.091553,
+            "portName": " ",
+            "routingid": -1506631846,
+            "distanceid": -1506631846,
+            "distance": 26.90834921279762,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 46.663124,
+            "lon": -7.39901,
+            "portName": " ",
+            "routingid": -1506631845,
+            "distanceid": -1506631845,
+            "distance": 26.951982000630654,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 46.26732,
+            "lon": -7.706467,
+            "portName": " ",
+            "routingid": -1506631844,
+            "distanceid": -1506631844,
+            "distance": 26.99554191593104,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 45.871517,
+            "lon": -8.013925,
+            "portName": " ",
+            "routingid": -1506631843,
+            "distanceid": -1506631843,
+            "distance": 27.039120180183108,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 45.475713,
+            "lon": -8.321382,
+            "portName": " ",
+            "routingid": -1506631842,
+            "distanceid": -1506631842,
+            "distance": 27.082609511771267,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 45.079909,
+            "lon": -8.628839,
+            "portName": " ",
+            "routingid": -1506631841,
+            "distanceid": -1506631841,
+            "distance": 27.125982280729087,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 44.684106,
+            "lon": -8.936296,
+            "portName": " ",
+            "routingid": -1506631840,
+            "distanceid": -1506631840,
+            "distance": 27.16938837694158,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 44.288302,
+            "lon": -9.243753,
+            "portName": " ",
+            "routingid": -1506631839,
+            "distanceid": -1506631839,
+            "distance": 27.212662145052175,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 43.892498,
+            "lon": -9.55121,
+            "portName": " ",
+            "routingid": -1506631838,
+            "distanceid": -1506631838,
+            "distance": 27.25586952686177,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 43.496694,
+            "lon": -9.858668,
+            "portName": " ",
+            "routingid": -1506631837,
+            "distanceid": -1506631837,
+            "distance": 2.9191350261808067,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 43.45434,
+            "lon": -9.891568,
+            "portName": " ",
+            "routingid": -1506631836,
+            "distanceid": -1506631836,
+            "distance": 12.981793506076116,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 43.260722,
+            "lon": -10.023932,
+            "portName": " ",
+            "routingid": -1506631835,
+            "distanceid": -1506631835,
+            "distance": 22.74968278169443,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 42.88182,
+            "lon": -10.026282,
+            "portName": " ",
+            "routingid": -1506631834,
+            "distanceid": -1506631834,
+            "distance": 24.994242266842576,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 42.46553,
+            "lon": -10.026186,
+            "portName": " ",
+            "routingid": -1506631833,
+            "distanceid": -1506631833,
+            "distance": 27.0327359040569,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 42.015288,
+            "lon": -10.026082,
+            "portName": " ",
+            "routingid": -1506631832,
+            "distanceid": -1506631832,
+            "distance": 27.032675861564545,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 41.565047,
+            "lon": -10.025979,
+            "portName": " ",
+            "routingid": -1506631831,
+            "distanceid": -1506631831,
+            "distance": 27.03267587486334,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 41.114806,
+            "lon": -10.025875,
+            "portName": " ",
+            "routingid": -1506631830,
+            "distanceid": -1506631830,
+            "distance": 27.03273592093461,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 40.664564,
+            "lon": -10.025771,
+            "portName": " ",
+            "routingid": -1506631829,
+            "distanceid": -1506631829,
+            "distance": 27.03267588608067,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 40.214323,
+            "lon": -10.025667,
+            "portName": " ",
+            "routingid": -1506631828,
+            "distanceid": -1506631828,
+            "distance": 27.032735924023353,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 39.764081,
+            "lon": -10.025564,
+            "portName": " ",
+            "routingid": -1506631827,
+            "distanceid": -1506631827,
+            "distance": 27.032675897241532,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 39.31384,
+            "lon": -10.02546,
+            "portName": " ",
+            "routingid": -1506631826,
+            "distanceid": -1506631826,
+            "distance": 27.032735943253524,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 38.863598,
+            "lon": -10.025356,
+            "portName": " ",
+            "routingid": -1506631825,
+            "distanceid": -1506631825,
+            "distance": 10.072267010819592,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 38.69584,
+            "lon": -10.025356,
+            "portName": " ",
+            "routingid": -1506631824,
+            "distanceid": -1506631824,
+            "distance": 5.688365119444034,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 38.603524,
+            "lon": -9.998078,
+            "portName": " ",
+            "routingid": -1506631823,
+            "distanceid": -1506631823,
+            "distance": 18.91568591972317,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 38.296362,
+            "lon": -9.908628,
+            "portName": " ",
+            "routingid": -1506631822,
+            "distanceid": -1506631822,
+            "distance": 27.036202751931633,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.857447,
+            "lon": -9.78081,
+            "portName": " ",
+            "routingid": -1506631821,
+            "distanceid": -1506631821,
+            "distance": 27.044276487407643,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.418532,
+            "lon": -9.652993,
+            "portName": " ",
+            "routingid": -1506631820,
+            "distanceid": -1506631820,
+            "distance": 79.86351314969033,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.452241,
+            "lon": -8.509321,
+            "portName": " ",
+            "routingid": -1506631819,
+            "distanceid": -1506631819,
+            "distance": 26.90077839799975,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.329996,
+            "lon": -7.973851,
+            "portName": " ",
+            "routingid": -1506631818,
+            "distanceid": -1506631818,
+            "distance": 26.939846592658967,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.20775,
+            "lon": -7.438382,
+            "portName": " ",
+            "routingid": -1506631817,
+            "distanceid": -1506631817,
+            "distance": 26.978882722080904,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.085504,
+            "lon": -6.902912,
+            "portName": " ",
+            "routingid": -1506631816,
+            "distanceid": -1506631816,
+            "distance": 27.017746573175597,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.963259,
+            "lon": -6.367442,
+            "portName": " ",
+            "routingid": -1506631815,
+            "distanceid": -1506631815,
+            "distance": 8.429127154255442,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.925156,
+            "lon": -6.200541,
+            "portName": " ",
+            "routingid": -1506631814,
+            "distanceid": -1506631814,
+            "distance": 4.882330924349807,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.925653,
+            "lon": -6.100124,
+            "portName": " ",
+            "routingid": -1506631813,
+            "distanceid": -1506631813,
+            "distance": 17.05413681333612,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.937037,
+            "lon": -5.749613,
+            "portName": " ",
+            "routingid": -1506631812,
+            "distanceid": -1506631812,
+            "distance": 6.8478418695229895,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.93671,
+            "lon": -5.608748,
+            "portName": " ",
+            "routingid": -1506631811,
+            "distanceid": -1506631811,
+            "distance": 2.906207413684238,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.951129,
+            "lon": -5.551674,
+            "portName": " ",
+            "routingid": -1506631810,
+            "distanceid": -1506631810,
+            "distance": 2.2059078374353676,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.962488,
+            "lon": -5.508509,
+            "portName": " ",
+            "routingid": -1506631809,
+            "distanceid": -1506631809,
+            "distance": 1.9931737702820769,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.972753,
+            "lon": -5.469502,
+            "portName": " ",
+            "routingid": -1506631808,
+            "distanceid": -1506631808,
+            "distance": 2.1646284015011146,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 35.983562,
+            "lon": -5.427,
+            "portName": " ",
+            "routingid": -1506631807,
+            "distanceid": -1506631807,
+            "distance": 17.422672717304113,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.028626,
+            "lon": -5.072639,
+            "portName": " ",
+            "routingid": -1506631806,
+            "distanceid": -1506631806,
+            "distance": 26.98803782259157,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.098481,
+            "lon": -4.523336,
+            "portName": " ",
+            "routingid": -1506631805,
+            "distanceid": -1506631805,
+            "distance": 26.96463525998853,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.168336,
+            "lon": -3.974033,
+            "portName": " ",
+            "routingid": -1506631804,
+            "distanceid": -1506631804,
+            "distance": 26.94119409005187,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.238191,
+            "lon": -3.42473,
+            "portName": " ",
+            "routingid": -1506631803,
+            "distanceid": -1506631803,
+            "distance": 26.917705164788185,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.308045,
+            "lon": -2.875427,
+            "portName": " ",
+            "routingid": -1506631802,
+            "distanceid": -1506631802,
+            "distance": 26.894196419988752,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.3779,
+            "lon": -2.326124,
+            "portName": " ",
+            "routingid": -1506631801,
+            "distanceid": -1506631801,
+            "distance": 2.8419143685282036,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.385285,
+            "lon": -2.268051,
+            "portName": " ",
+            "routingid": -1506631800,
+            "distanceid": -1506631800,
+            "distance": 3.9137628646788514,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.395701,
+            "lon": -2.188115,
+            "portName": " ",
+            "routingid": -1506631799,
+            "distanceid": -1506631799,
+            "distance": 659.5484148415924,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.5,
+            "lon": 11.5,
+            "portName": " ",
+            "routingid": -1506631798,
+            "distanceid": -1506631798,
+            "distance": 18.373509912961538,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.32371,
+            "lon": 11.814922,
+            "portName": " ",
+            "routingid": -1506631797,
+            "distanceid": -1506631797,
+            "distance": 26.865248519389628,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.132242,
+            "lon": 12.322836,
+            "portName": " ",
+            "routingid": -1506631796,
+            "distanceid": -1506631796,
+            "distance": 26.920888289841404,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.940773,
+            "lon": 12.83075,
+            "portName": " ",
+            "routingid": -1506631795,
+            "distanceid": -1506631795,
+            "distance": 26.97632568688815,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.749304,
+            "lon": 13.338665,
+            "portName": " ",
+            "routingid": -1506631794,
+            "distanceid": -1506631794,
+            "distance": 27.031454744218927,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.557835,
+            "lon": 13.846579,
+            "portName": " ",
+            "routingid": -1506631793,
+            "distanceid": -1506631793,
+            "distance": 8.175967858250557,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.5,
+            "lon": 14.0,
+            "portName": " ",
+            "routingid": -1506631792,
+            "distanceid": -1506631792,
+            "distance": 26.936023983001768,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.263308,
+            "lon": 14.473384,
+            "portName": " ",
+            "routingid": -1506631791,
+            "distanceid": -1506631791,
+            "distance": 26.995005700681585,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.026616,
+            "lon": 14.946767,
+            "portName": " ",
+            "routingid": -1506631790,
+            "distanceid": -1506631790,
+            "distance": 3.0393166460880576,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.0,
+            "lon": 15.0,
+            "portName": " ",
+            "routingid": -1506631789,
+            "distanceid": -1506631789,
+            "distance": 351.66087040082834,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.246351,
+            "lon": 22.246351,
+            "portName": " ",
+            "routingid": -1506631788,
+            "distanceid": -1506631788,
+            "distance": 33.391835841613975,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.422113,
+            "lon": 22.901354,
+            "portName": " ",
+            "routingid": -1506631786,
+            "distanceid": -1506631786,
+            "distance": 1.3166068504902861,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.418401,
+            "lon": 22.928212,
+            "portName": " ",
+            "routingid": -1506631785,
+            "distanceid": -1506631785,
+            "distance": 1.1052231837308402,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.415665,
+            "lon": 22.950833,
+            "portName": " ",
+            "routingid": -1506631784,
+            "distanceid": -1506631784,
+            "distance": 1.0559940670293937,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.412702,
+            "lon": 22.972376,
+            "portName": " ",
+            "routingid": -1506631783,
+            "distanceid": -1506631783,
+            "distance": 4.779170723532814,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.392527,
+            "lon": 23.068044,
+            "portName": " ",
+            "routingid": -1506631782,
+            "distanceid": -1506631782,
+            "distance": 6.543570100548581,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.385361,
+            "lon": 23.203136,
+            "portName": " ",
+            "routingid": -1506631781,
+            "distanceid": -1506631781,
+            "distance": 4.859925069113028,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 36.456155,
+            "lon": 23.251907,
+            "portName": " ",
+            "routingid": -1506631780,
+            "distanceid": -1506631780,
+            "distance": 33.97583110960412,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.007071,
+            "lon": 23.413222,
+            "portName": " ",
+            "routingid": -1506631779,
+            "distanceid": -1506631779,
+            "distance": 23.79281976569211,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.363962,
+            "lon": 23.629419,
+            "portName": " ",
+            "routingid": -1506631778,
+            "distanceid": -1506631778,
+            "distance": 18.783972082833735,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.666066,
+            "lon": 23.731931,
+            "portName": " ",
+            "routingid": -1506631777,
+            "distanceid": -1506631777,
+            "distance": 11.014167251221783,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.831937,
+            "lon": 23.632838,
+            "portName": " ",
+            "routingid": -1506631776,
+            "distanceid": -1506631776,
+            "distance": 3.1585446832085737,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.882989,
+            "lon": 23.616758,
+            "portName": " ",
+            "routingid": -1506631775,
+            "distanceid": -1506631775,
+            "distance": 2.963257083798208,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.932287,
+            "lon": 23.61377,
+            "portName": " ",
+            "routingid": -1506631774,
+            "distanceid": -1506631774,
+            "distance": 0.30383286288139044,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.937066,
+            "lon": 23.61588,
+            "portName": " ",
+            "routingid": -1506631773,
+            "distanceid": -1506631773,
+            "distance": 0.1628047679522592,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.937962,
+            "lon": 23.619125,
+            "portName": " ",
+            "routingid": -1506631772,
+            "distanceid": -1506631772,
+            "distance": 0.13523021966622417,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.937578,
+            "lon": 23.621939,
+            "portName": " ",
+            "routingid": -1506631771,
+            "distanceid": -1506631771,
+            "distance": 0.0714276738176526,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.937877,
+            "lon": 23.623399,
+            "portName": " ",
+            "routingid": -1506631770,
+            "distanceid": -1506631770,
+            "distance": 0.1068925866601559,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.939157,
+            "lon": 23.624968,
+            "portName": " ",
+            "routingid": -1506631769,
+            "distanceid": -1506631769,
+            "distance": 0.18787541479830647,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        },
+        {
+            "lat": 37.940607,
+            "lon": 23.628484,
+            "portName": " ",
+            "routingid": -1506631768,
+            "distanceid": -1506631768,
+            "distance": 0.0,
+            "routingPart": 0,
+            "eca": 0,
+            "wpId": 1
+        }
+    ]
+}
+
+
+[
+    {
+        "routeName": "  -  ",
+        "distance": 3393.752,
+        "ecaDistance": 886.09796,
+        "sequenceIndex": [
+            0,
+            143
+        ]
+    }
+]
+
+
+google.maps.__gjsload__('geometry', function(_) {
+    var mra = function(a, b) {
+        return Math.abs(_.Lj(b - a, -180, 180))
+    }
+      , nra = function(a, b, c, d, e) {
+        if (!d) {
+            c = mra(a.lng(), c) / mra(a.lng(), b.lng());
+            if (!e)
+                return e = Math.sin(_.lj(a.lat())),
+                e = Math.log((1 + e) / (1 - e)) / 2,
+                b = Math.sin(_.lj(b.lat())),
+                _.mj(2 * Math.atan(Math.exp(e + c * (Math.log((1 + b) / (1 - b)) / 2 - e))) - Math.PI / 2);
+            a = e.fromLatLngToPoint(a);
+            b = e.fromLatLngToPoint(b);
+            return e.fromPointToLatLng(new _.Kl(a.x + c * (b.x - a.x),a.y + c * (b.y - a.y))).lat()
+        }
+        e = _.lj(a.lat());
+        a = _.lj(a.lng());
+        d = _.lj(b.lat());
+        b = _.lj(b.lng());
+        c = _.lj(c);
+        return _.Lj(_.mj(Math.atan2(Math.sin(e) * Math.cos(d) * Math.sin(c - b) - Math.sin(d) * Math.cos(e) * Math.sin(c - a), Math.cos(e) * Math.cos(d) * Math.sin(a - b))), -90, 90)
+    }
+      , ora = function(a, b) {
+        a = new _.uk(a,!1);
+        b = new _.uk(b,!1);
+        return a.equals(b)
+    }
+      , pra = function(a, b, c) {
+        a = _.yk(a);
+        c = c || 1E-9;
+        const d = _.Lj(a.lng(), -180, 180)
+          , e = b instanceof _.bo
+          , f = !!b.get("geodesic")
+          , g = b.get("latLngs");
+        b = b.get("map");
+        b = !f && b ? b.getProjection() : null;
+        for (let t = 0, u = g.getLength(); t < u; ++t) {
+            const w = g.getAt(t)
+              , y = w.getLength()
+              , z = e ? y : y - 1;
+            for (let B = 0; B < z; ++B) {
+                var h = w.getAt(B);
+                const D = w.getAt((B + 1) % y);
+                if (ora(h, a) || ora(D, a))
+                    return !0;
+                var k = _.Lj(h.lng(), -180, 180)
+                  , m = _.Lj(D.lng(), -180, 180);
+                const G = Math.max(k, m)
+                  , I = Math.min(k, m);
+                if (k = Math.abs(_.Lj(k - m, -180, 180)) <= 1E-9 && (Math.abs(_.Lj(k - d, -180, 180)) <= c || Math.abs(_.Lj(m - d, -180, 180)) <= c)) {
+                    k = a.lat();
+                    m = Math.min(h.lat(), D.lat()) - c;
+                    var p = Math.max(h.lat(), D.lat()) + c;
+                    k = k >= m && k <= p
+                }
+                if (k)
+                    return !0;
+                if (G - I > 180 ? d + c >= G || d - c <= I : d + c >= I && d - c <= G)
+                    if (h = nra(h, D, d, f, b),
+                    Math.abs(h - a.lat()) < c)
+                        return !0
+            }
+        }
+        return !1
+    }
+      , qra = function(a, b) {
+        const c = [];
+        let d = [0, 0], e;
+        for (let f = 0, g = _.Hj(a); f < g; ++f)
+            e = b ? b(a[f]) : a[f],
+            nz.KE(e[0] - d[0], c),
+            nz.KE(e[1] - d[1], c),
+            d = e;
+        return c.join("")
+    }
+      , oz = class {
+    }
+    ;
+    oz.isLocationOnEdge = pra;
+    oz.containsLocation = function(a, b) {
+        a = _.yk(a);
+        const c = _.Lj(a.lng(), -180, 180)
+          , d = !!b.get("geodesic")
+          , e = b.get("latLngs");
+        var f = b.get("map");
+        f = !d && f ? f.getProjection() : null;
+        let g = !1;
+        for (let k = 0, m = e.getLength(); k < m; ++k) {
+            const p = e.getAt(k);
+            for (let t = 0, u = p.getLength(); t < u; ++t) {
+                const w = p.getAt(t)
+                  , y = p.getAt((t + 1) % u);
+                var h = _.Lj(w.lng(), -180, 180);
+                const z = _.Lj(y.lng(), -180, 180)
+                  , B = Math.max(h, z);
+                h = Math.min(h, z);
+                (B - h > 180 ? c >= B || c < h : c < B && c >= h) && nra(w, y, c, d, f) < a.lat() && (g = !g)
+            }
+        }
+        return g || pra(a, b)
+    }
+    ;
+    var nz = {
+        decodePath: function(a) {
+            const b = _.Hj(a)
+              , c = Array(Math.floor(a.length / 2));
+            let d = 0, e = 0, f = 0, g;
+            for (g = 0; d < b; ++g) {
+                let h = 1, k = 0, m;
+                do
+                    m = a.charCodeAt(d++) - 63 - 1,
+                    h += m << k,
+                    k += 5;
+                while (m >= 31);
+                e += h & 1 ? ~(h >> 1) : h >> 1;
+                h = 1;
+                k = 0;
+                do
+                    m = a.charCodeAt(d++) - 63 - 1,
+                    h += m << k,
+                    k += 5;
+                while (m >= 31);
+                f += h & 1 ? ~(h >> 1) : h >> 1;
+                c[g] = new _.uk(e * 1E-5,f * 1E-5,!0)
+            }
+            c.length = g;
+            return c
+        }
+    };
+    _.Ha("module$exports$mapsapi$poly$polylineCodec.PolylineCodec.decodePath", nz.decodePath);
+    nz.encodePath = function(a) {
+        a instanceof _.Am && (a = a.getArray());
+        a = (0,
+        _.gl)(a);
+        return qra(a, function(b) {
+            return [Math.round(b.lat() * 1E5), Math.round(b.lng() * 1E5)]
+        })
+    }
+    ;
+    _.Ha("module$exports$mapsapi$poly$polylineCodec.PolylineCodec.encodePath", nz.encodePath);
+    nz.KE = function(a, b) {
+        for (a = a < 0 ? ~(a << 1) : a << 1; a >= 32; )
+            b.push(String.fromCharCode((32 | a & 31) + 63)),
+            a >>= 5;
+        b.push(String.fromCharCode(a + 63))
+    }
+    ;
+    var rra = {
+        encoding: nz,
+        spherical: _.pq,
+        poly: oz
+    };
+    _.ra.google.maps.geometry = rra;
+    _.Aj("geometry", rra);
+});

@@ -1,0 +1,4292 @@
+[
+    {
+        "portName": "GIBRALTAR STRAIT",
+        "timezoneOffset": 1.0,
+        "latitude": 35.96248783774067,
+        "longitude": -5.50850909742417,
+        "rpCode": "GI",
+        "zoomLevel": 1,
+        "key": 103275,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103275"
+    },
+    {
+        "portName": "HAINAN STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 20.298,
+        "longitude": 111.01,
+        "rpCode": "HS",
+        "zoomLevel": 2,
+        "key": 104672,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104672"
+    },
+    {
+        "portName": "FOVEAUX STRAIT",
+        "timezoneOffset": 13.0,
+        "latitude": -46.565,
+        "longitude": 167.861,
+        "rpCode": "FX",
+        "zoomLevel": 3,
+        "key": 103306,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103306"
+    },
+    {
+        "portName": "RECIFE CAPE",
+        "timezoneOffset": -3.0,
+        "latitude": -7.974834878906535,
+        "longitude": -34.44986565755345,
+        "rpCode": "RE",
+        "zoomLevel": 3,
+        "key": 101277,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101277"
+    },
+    {
+        "portName": "QUEEN CHARLOTTE STR",
+        "timezoneOffset": -8.0,
+        "latitude": 50.9649375,
+        "longitude": -127.7465002,
+        "rpCode": "QC",
+        "zoomLevel": 3,
+        "key": 101294,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101294"
+    },
+    {
+        "portName": "HORMUZ STRAIT",
+        "timezoneOffset": 4.0,
+        "latitude": 26.57892565277171,
+        "longitude": 56.580457691294214,
+        "rpCode": "HO",
+        "zoomLevel": 3,
+        "key": 101295,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101295"
+    },
+    {
+        "portName": "PROVIDENCE CHANNEL",
+        "timezoneOffset": -5.0,
+        "latitude": 25.775,
+        "longitude": -77.1,
+        "rpCode": "PR",
+        "zoomLevel": 3,
+        "key": 101439,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101439"
+    },
+    {
+        "portName": "ANEGADA PASSAGE",
+        "timezoneOffset": -4.0,
+        "latitude": 18.621,
+        "longitude": -63.821,
+        "rpCode": "AN",
+        "zoomLevel": 3,
+        "key": 104563,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104563"
+    },
+    {
+        "portName": "GREAT BELT",
+        "timezoneOffset": 1.0,
+        "latitude": 55.343,
+        "longitude": 11.039,
+        "rpCode": "GB",
+        "zoomLevel": 3,
+        "key": 103331,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103331"
+    },
+    {
+        "portName": "GREAT CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 6.2185321686024295,
+        "longitude": 95.10453636963291,
+        "rpCode": "GC",
+        "zoomLevel": 3,
+        "key": 103332,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103332"
+    },
+    {
+        "portName": "CAPE VERDE",
+        "timezoneOffset": 0.0,
+        "latitude": 14.752419396784084,
+        "longitude": -17.951295717515986,
+        "rpCode": "CV",
+        "zoomLevel": 3,
+        "key": 103742,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103742"
+    },
+    {
+        "portName": "CAPE WRATH",
+        "timezoneOffset": 0.0,
+        "latitude": 58.649027397686694,
+        "longitude": -5.056262670852418,
+        "rpCode": "CW",
+        "zoomLevel": 3,
+        "key": 103743,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103743"
+    },
+    {
+        "portName": "MJASUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 60.9099,
+        "longitude": 4.9592,
+        "rpCode": "MJ",
+        "zoomLevel": 3,
+        "key": 109424,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109424"
+    },
+    {
+        "portName": "LIFAMATOLA PASSAGE",
+        "timezoneOffset": 0.0,
+        "latitude": -1.7194908329584435,
+        "longitude": 126.95445549539131,
+        "rpCode": "LT",
+        "zoomLevel": 3,
+        "key": 105625,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105625"
+    },
+    {
+        "portName": "OBI STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": -1.2456801208755335,
+        "longitude": 128.10727225304282,
+        "rpCode": "OI",
+        "zoomLevel": 3,
+        "key": 105626,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105626"
+    },
+    {
+        "portName": "TSUGARU STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 41.621,
+        "longitude": 140.945,
+        "rpCode": "TS",
+        "zoomLevel": 2,
+        "key": 100358,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100358"
+    },
+    {
+        "portName": "WINDWARD PASSAGE",
+        "timezoneOffset": -5.0,
+        "latitude": 19.99999999999999,
+        "longitude": -73.8249200782497,
+        "rpCode": "WI",
+        "zoomLevel": 2,
+        "key": 100103,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100103"
+    },
+    {
+        "portName": "WILSONS PROMONTORY",
+        "timezoneOffset": 11.0,
+        "latitude": -39.19296960170053,
+        "longitude": 146.470825288725,
+        "rpCode": "WP",
+        "zoomLevel": 1,
+        "key": 100126,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100126"
+    },
+    {
+        "portName": "POINT ITAPERINA",
+        "timezoneOffset": 0.0,
+        "latitude": -25.211526939435014,
+        "longitude": 47.21152693943501,
+        "rpCode": "IT",
+        "zoomLevel": 3,
+        "key": 107675,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107675"
+    },
+    {
+        "portName": "BISTROYE CHANNEL",
+        "timezoneOffset": 2.0,
+        "latitude": 45.3906,
+        "longitude": 29.1556,
+        "rpCode": "BY",
+        "zoomLevel": 3,
+        "key": 107680,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107680"
+    },
+    {
+        "portName": "NIEGRIPP LOCK",
+        "timezoneOffset": 1.0,
+        "latitude": 52.248701,
+        "longitude": 11.741706,
+        "rpCode": "N1",
+        "zoomLevel": 3,
+        "key": 107693,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107693"
+    },
+    {
+        "portName": "ELBE-HAVEL  CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 52.255555,
+        "longitude": 11.774905,
+        "rpCode": "E2",
+        "zoomLevel": 3,
+        "key": 107695,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107695"
+    },
+    {
+        "portName": "ELBE SEITENKANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 52.456211,
+        "longitude": 10.638709,
+        "rpCode": "E1",
+        "zoomLevel": 3,
+        "key": 107694,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107694"
+    },
+    {
+        "portName": "ARABIAN SEA",
+        "timezoneOffset": 0.0,
+        "latitude": 22.020652521048437,
+        "longitude": 64.99045306050868,
+        "rpCode": "AS",
+        "zoomLevel": 2,
+        "key": 107979,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107979"
+    },
+    {
+        "portName": "INDIAN OCEAN 05S 65E",
+        "timezoneOffset": 0.0,
+        "latitude": -5.0,
+        "longitude": 65.0,
+        "rpCode": "I3",
+        "zoomLevel": 2,
+        "key": 107980,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107980"
+    },
+    {
+        "portName": "KII STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 33.835816828898885,
+        "longitude": 134.93582684659046,
+        "rpCode": "KI",
+        "zoomLevel": 3,
+        "key": 102758,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102758"
+    },
+    {
+        "portName": "BASILAN STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 6.798,
+        "longitude": 122.167,
+        "rpCode": "BS",
+        "zoomLevel": 2,
+        "key": 104021,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104021"
+    },
+    {
+        "portName": "BUNGO STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 32.96900924151879,
+        "longitude": 132.18099991755517,
+        "rpCode": "BU",
+        "zoomLevel": 3,
+        "key": 104022,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104022"
+    },
+    {
+        "portName": "CROOKED ISLAND PASS",
+        "timezoneOffset": -5.0,
+        "latitude": 22.842,
+        "longitude": -74.584,
+        "rpCode": "CI",
+        "zoomLevel": 3,
+        "key": 103810,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103810"
+    },
+    {
+        "portName": "CAPE MENDOCINO",
+        "timezoneOffset": -8.0,
+        "latitude": 40.35588684520512,
+        "longitude": -124.64411315479488,
+        "rpCode": "CM",
+        "zoomLevel": 3,
+        "key": 103830,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103830"
+    },
+    {
+        "portName": "COOK STRAIT",
+        "timezoneOffset": 13.0,
+        "latitude": -41.317197,
+        "longitude": 174.485195,
+        "rpCode": "CO",
+        "zoomLevel": 2,
+        "key": 103831,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103831"
+    },
+    {
+        "portName": "NIEUWE MERWEDE",
+        "timezoneOffset": 1.0,
+        "latitude": 51.793531,
+        "longitude": 4.773338,
+        "rpCode": "NM",
+        "zoomLevel": 3,
+        "key": 106391,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106391"
+    },
+    {
+        "portName": "AMSTERDAM RIJN KANAL",
+        "timezoneOffset": 0.0,
+        "latitude": 51.94711,
+        "longitude": 5.375316,
+        "rpCode": "AR",
+        "zoomLevel": 3,
+        "key": 106397,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106397"
+    },
+    {
+        "portName": "SUID WILLEMSVAART",
+        "timezoneOffset": 1.0,
+        "latitude": 51.27112,
+        "longitude": 5.742564,
+        "rpCode": "SW",
+        "zoomLevel": 3,
+        "key": 106399,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106399"
+    },
+    {
+        "portName": "STILLE MAAS",
+        "timezoneOffset": 1.0,
+        "latitude": 51.793695,
+        "longitude": 5.049055,
+        "rpCode": "MS",
+        "zoomLevel": 3,
+        "key": 107705,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107705"
+    },
+    {
+        "portName": "KARIMATA STRAIT",
+        "timezoneOffset": 7.0,
+        "latitude": -2.657395781579406,
+        "longitude": 109.06849028759298,
+        "rpCode": "KA",
+        "zoomLevel": 2,
+        "key": 102829,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102829"
+    },
+    {
+        "portName": "LUDWIGS CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 48.911078,
+        "longitude": 11.920771,
+        "rpCode": "LW",
+        "zoomLevel": 3,
+        "key": 105429,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105429"
+    },
+    {
+        "portName": "ROSSEL ISLAND",
+        "timezoneOffset": 10.0,
+        "latitude": -11.37669833273638,
+        "longitude": 154.6233016672636,
+        "rpCode": "RI",
+        "zoomLevel": 3,
+        "key": 101221,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101221"
+    },
+    {
+        "portName": "DOMINICA PASS",
+        "timezoneOffset": -4.0,
+        "latitude": 15.755,
+        "longitude": -61.5,
+        "rpCode": "DP",
+        "zoomLevel": 3,
+        "key": 103584,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103584"
+    },
+    {
+        "portName": "DOVER STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 50.942,
+        "longitude": 1.389,
+        "rpCode": "DS",
+        "zoomLevel": 2,
+        "key": 103593,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103593"
+    },
+    {
+        "portName": "ALOR STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": -8.29722425601688,
+        "longitude": 123.94535691985628,
+        "rpCode": "AO",
+        "zoomLevel": 3,
+        "key": 105433,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105433"
+    },
+    {
+        "portName": "PALAWAN PASSAGE",
+        "timezoneOffset": 8.0,
+        "latitude": 9.0,
+        "longitude": 117.0,
+        "rpCode": "PA",
+        "zoomLevel": 3,
+        "key": 105438,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105438"
+    },
+    {
+        "portName": "CAPE HORN",
+        "timezoneOffset": -3.0,
+        "latitude": -56.125562876117655,
+        "longitude": -67.19733280771804,
+        "rpCode": "CH",
+        "zoomLevel": 1,
+        "key": 103921,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103921"
+    },
+    {
+        "portName": "GUADELOUPE PASS",
+        "timezoneOffset": -4.0,
+        "latitude": 16.66693743770369,
+        "longitude": -61.666937437703695,
+        "rpCode": "GP",
+        "zoomLevel": 3,
+        "key": 103230,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103230"
+    },
+    {
+        "portName": "PULAU LARILARIAN",
+        "timezoneOffset": 7.0,
+        "latitude": -3.508620623883293,
+        "longitude": 117.44016516981984,
+        "rpCode": "PL",
+        "zoomLevel": 3,
+        "key": 106624,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106624"
+    },
+    {
+        "portName": "AURORA BANK",
+        "timezoneOffset": 7.0,
+        "latitude": -5.489730937675957,
+        "longitude": 116.85667957279483,
+        "rpCode": "AB",
+        "zoomLevel": 3,
+        "key": 106625,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106625"
+    },
+    {
+        "portName": "FEHMER BELT",
+        "timezoneOffset": 1.0,
+        "latitude": 54.579,
+        "longitude": 11.276,
+        "rpCode": "FB",
+        "zoomLevel": 3,
+        "key": 103472,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103472"
+    },
+    {
+        "portName": "ALS FJORD",
+        "timezoneOffset": 1.0,
+        "latitude": 55.051544,
+        "longitude": 9.615148,
+        "rpCode": "AF",
+        "zoomLevel": 3,
+        "key": 106517,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106517"
+    },
+    {
+        "portName": "HIMMERFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 59.214346,
+        "longitude": 18.478732,
+        "rpCode": "HM",
+        "zoomLevel": 3,
+        "key": 106519,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106519"
+    },
+    {
+        "portName": "ALMAGRUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 59.19,
+        "longitude": 19.197,
+        "rpCode": "AG",
+        "zoomLevel": 3,
+        "key": 106520,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106520"
+    },
+    {
+        "portName": "LINAPACAN STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 11.616194276071257,
+        "longitude": 119.95195188106028,
+        "rpCode": "LI",
+        "zoomLevel": 3,
+        "key": 105391,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105391"
+    },
+    {
+        "portName": "HOLMENGRAA PS",
+        "timezoneOffset": 1.0,
+        "latitude": 60.855,
+        "longitude": 4.6133,
+        "rpCode": "HL",
+        "zoomLevel": 3,
+        "key": 102999,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102999"
+    },
+    {
+        "portName": "RIVER LEK",
+        "timezoneOffset": 1.0,
+        "latitude": 51.959219,
+        "longitude": 5.337112,
+        "rpCode": "RL",
+        "zoomLevel": 3,
+        "key": 106416,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106416"
+    },
+    {
+        "portName": "THE MINCH",
+        "timezoneOffset": 0.0,
+        "latitude": 58.5,
+        "longitude": -5.5,
+        "rpCode": "TM",
+        "zoomLevel": 3,
+        "key": 105509,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105509"
+    },
+    {
+        "portName": "DARDANELLES",
+        "timezoneOffset": 3.0,
+        "latitude": 40.14353409668325,
+        "longitude": 26.38948026149448,
+        "rpCode": "DA",
+        "zoomLevel": 3,
+        "key": 103682,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103682"
+    },
+    {
+        "portName": "CHINA STRAIT",
+        "timezoneOffset": 10.0,
+        "latitude": -10.552346787015718,
+        "longitude": 150.70328291634758,
+        "rpCode": "CX",
+        "zoomLevel": 3,
+        "key": 105253,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105253"
+    },
+    {
+        "portName": "MCCLURE STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 74.48536,
+        "longitude": -116.472416,
+        "rpCode": "MX",
+        "zoomLevel": 3,
+        "key": 107266,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107266"
+    },
+    {
+        "portName": "LUKKSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 60.0398,
+        "longitude": 5.7066,
+        "rpCode": "LK",
+        "zoomLevel": 3,
+        "key": 105147,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105147"
+    },
+    {
+        "portName": "ELAFONISOS STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 36.415664712586576,
+        "longitude": 22.95083329249982,
+        "rpCode": "EL",
+        "zoomLevel": 3,
+        "key": 105258,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105258"
+    },
+    {
+        "portName": "KITHERA CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 36.03243125509869,
+        "longitude": 23.171657716238787,
+        "rpCode": "KH",
+        "zoomLevel": 3,
+        "key": 105259,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105259"
+    },
+    {
+        "portName": "KAFIREA STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 37.99669060160976,
+        "longitude": 24.648125429303505,
+        "rpCode": "KF",
+        "zoomLevel": 3,
+        "key": 105260,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105260"
+    },
+    {
+        "portName": "OLD BAHAMA CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 22.588,
+        "longitude": -78.111,
+        "rpCode": "OB",
+        "zoomLevel": 3,
+        "key": 105248,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105248"
+    },
+    {
+        "portName": "BAWIHKA CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 15.656,
+        "longitude": -81.791,
+        "rpCode": "BW",
+        "zoomLevel": 3,
+        "key": 105249,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105249"
+    },
+    {
+        "portName": "STRAIT OF MAKASSAR",
+        "timezoneOffset": 0.0,
+        "latitude": -3.0,
+        "longitude": 118.5,
+        "rpCode": "MK",
+        "zoomLevel": 3,
+        "key": 105252,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105252"
+    },
+    {
+        "portName": "ACTIVE PASS",
+        "timezoneOffset": -8.0,
+        "latitude": 48.87841105642813,
+        "longitude": -123.30234796595573,
+        "rpCode": "AP",
+        "zoomLevel": 3,
+        "key": 105223,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105223"
+    },
+    {
+        "portName": "TANON STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 9.968282630351336,
+        "longitude": 123.28872808250708,
+        "rpCode": "TA",
+        "zoomLevel": 3,
+        "key": 105254,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105254"
+    },
+    {
+        "portName": "APO WEST PASS",
+        "timezoneOffset": 8.0,
+        "latitude": 12.481,
+        "longitude": 120.392,
+        "rpCode": "AW",
+        "zoomLevel": 3,
+        "key": 105255,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105255"
+    },
+    {
+        "portName": "SAMOS STRAIT",
+        "timezoneOffset": 2.0,
+        "latitude": 37.69674751098232,
+        "longitude": 27.009581790829262,
+        "rpCode": "SX",
+        "zoomLevel": 3,
+        "key": 107264,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107264"
+    },
+    {
+        "portName": "PRINCE OF WALES STR.",
+        "timezoneOffset": 0.0,
+        "latitude": 72.550506,
+        "longitude": -118.774904,
+        "rpCode": "PW",
+        "zoomLevel": 3,
+        "key": 107265,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107265"
+    },
+    {
+        "portName": "NORTH OF OELAND",
+        "timezoneOffset": 1.0,
+        "latitude": 57.44879699147169,
+        "longitude": 17.140862902060984,
+        "rpCode": "N3",
+        "zoomLevel": 4,
+        "key": 110872,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110872"
+    },
+    {
+        "portName": "CAPE RACE",
+        "timezoneOffset": -3.5,
+        "latitude": 46.42076141796584,
+        "longitude": -53.0,
+        "rpCode": "CR",
+        "zoomLevel": 2,
+        "key": 103723,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103723"
+    },
+    {
+        "portName": "CAPE TEULADA",
+        "timezoneOffset": 1.0,
+        "latitude": 38.71723841032693,
+        "longitude": 8.60616907031861,
+        "rpCode": "CT",
+        "zoomLevel": 3,
+        "key": 103730,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103730"
+    },
+    {
+        "portName": "SCARPANTO STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 35.92787075505733,
+        "longitude": 27.46534183632356,
+        "rpCode": "ST",
+        "zoomLevel": 3,
+        "key": 105261,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105261"
+    },
+    {
+        "portName": "DONDRA HEAD",
+        "timezoneOffset": 5.5,
+        "latitude": 5.67063848220691,
+        "longitude": 80.6199153877152,
+        "rpCode": "DH",
+        "zoomLevel": 3,
+        "key": 103629,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103629"
+    },
+    {
+        "portName": "CLIFFY HEAD",
+        "timezoneOffset": 8.0,
+        "latitude": -35.10594853364378,
+        "longitude": 116.14825384222512,
+        "rpCode": "CL",
+        "zoomLevel": 2,
+        "key": 103822,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103822"
+    },
+    {
+        "portName": "NORTH EAST PASSAGE",
+        "timezoneOffset": 3.0,
+        "latitude": 77.79960598836139,
+        "longitude": 104.14869311789924,
+        "rpCode": "NE",
+        "zoomLevel": 1,
+        "key": 104665,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104665"
+    },
+    {
+        "portName": "NORTH WEST PASS",
+        "timezoneOffset": -5.0,
+        "latitude": 74.281,
+        "longitude": -93.5,
+        "rpCode": "NW",
+        "zoomLevel": 1,
+        "key": 104666,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104666"
+    },
+    {
+        "portName": "LUZON STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 20.593579943177645,
+        "longitude": 121.97074290892786,
+        "rpCode": "LZ",
+        "zoomLevel": 2,
+        "key": 104667,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104667"
+    },
+    {
+        "portName": "SELAT OMBAI",
+        "timezoneOffset": 8.0,
+        "latitude": -8.642324339875557,
+        "longitude": 124.85294939748474,
+        "rpCode": "OM",
+        "zoomLevel": 2,
+        "key": 101824,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101824"
+    },
+    {
+        "portName": "NICHOLAS CHANNEL",
+        "timezoneOffset": -5.0,
+        "latitude": 23.45612100464679,
+        "longitude": -80.48327653563747,
+        "rpCode": "NI",
+        "zoomLevel": 3,
+        "key": 101894,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101894"
+    },
+    {
+        "portName": "CAICOS PASSAGE",
+        "timezoneOffset": -5.0,
+        "latitude": 22.31179316631257,
+        "longitude": -72.31169446763785,
+        "rpCode": "CA",
+        "zoomLevel": 3,
+        "key": 103977,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103977"
+    },
+    {
+        "portName": "BANGKA PASSAGE",
+        "timezoneOffset": 8.0,
+        "latitude": 1.9612299395872557,
+        "longitude": 125.24636225332867,
+        "rpCode": "BP",
+        "zoomLevel": 3,
+        "key": 101932,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101932"
+    },
+    {
+        "portName": "NORTH CAPE NZ",
+        "timezoneOffset": 13.0,
+        "latitude": -34.317,
+        "longitude": 173.035,
+        "rpCode": "NZ",
+        "zoomLevel": 3,
+        "key": 101936,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101936"
+    },
+    {
+        "portName": "TORRES ISLANDS",
+        "timezoneOffset": 11.0,
+        "latitude": -13.024614857756482,
+        "longitude": 166.53306958299473,
+        "rpCode": "TI",
+        "zoomLevel": 3,
+        "key": 100489,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100489"
+    },
+    {
+        "portName": "SL (CABO SAN LUCAS)",
+        "timezoneOffset": -6.0,
+        "latitude": 23.0,
+        "longitude": -111.5,
+        "rpCode": "SL",
+        "zoomLevel": 3,
+        "key": 100769,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100769"
+    },
+    {
+        "portName": "STADLANDET",
+        "timezoneOffset": 1.0,
+        "latitude": 62.182,
+        "longitude": 4.864,
+        "rpCode": "S3",
+        "zoomLevel": 3,
+        "key": 100688,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100688"
+    },
+    {
+        "portName": "SIBUTU PASSAGE",
+        "timezoneOffset": 8.0,
+        "latitude": 4.837803169300204,
+        "longitude": 119.64235377441275,
+        "rpCode": "SP",
+        "zoomLevel": 3,
+        "key": 100735,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100735"
+    },
+    {
+        "portName": "SINGAPORE STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 1.191,
+        "longitude": 103.85,
+        "rpCode": "SS",
+        "zoomLevel": 3,
+        "key": 100745,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100745"
+    },
+    {
+        "portName": "NOGUMATIUGI REEF",
+        "timezoneOffset": 11.0,
+        "latitude": -23.1,
+        "longitude": 167.0,
+        "rpCode": "NR",
+        "zoomLevel": 3,
+        "key": 100725,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100725"
+    },
+    {
+        "portName": "MARKERMEER",
+        "timezoneOffset": 1.0,
+        "latitude": 52.3703,
+        "longitude": 5.01672,
+        "rpCode": "MM",
+        "zoomLevel": 3,
+        "key": 106861,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106861"
+    },
+    {
+        "portName": "WARREGO PASSAGE",
+        "timezoneOffset": 10.0,
+        "latitude": -9.382588615084499,
+        "longitude": 150.38655564698016,
+        "rpCode": "WR",
+        "zoomLevel": 3,
+        "key": 107116,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107116"
+    },
+    {
+        "portName": "SAWA SAWAGA PASS",
+        "timezoneOffset": 10.0,
+        "latitude": -10.6254,
+        "longitude": 150.761,
+        "rpCode": "SA",
+        "zoomLevel": 3,
+        "key": 107117,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107117"
+    },
+    {
+        "portName": "DIAMOND NARROWS",
+        "timezoneOffset": 11.0,
+        "latitude": -8.27266,
+        "longitude": 157.203,
+        "rpCode": "DD",
+        "zoomLevel": 3,
+        "key": 107113,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107113"
+    },
+    {
+        "portName": "SHETLAND FAROE CH",
+        "timezoneOffset": 0.0,
+        "latitude": 62.001,
+        "longitude": -5.001,
+        "rpCode": "SF",
+        "zoomLevel": 3,
+        "key": 107254,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107254"
+    },
+    {
+        "portName": "MONA PASSAGE WEST",
+        "timezoneOffset": -4.0,
+        "latitude": 18.248967672307685,
+        "longitude": -68.24896767230769,
+        "rpCode": "MP",
+        "zoomLevel": 2,
+        "key": 102103,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102103"
+    },
+    {
+        "portName": "MIZEN HEAD",
+        "timezoneOffset": 0.0,
+        "latitude": 51.34021523967755,
+        "longitude": -10.045509507519505,
+        "rpCode": "MH",
+        "zoomLevel": 3,
+        "key": 102170,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102170"
+    },
+    {
+        "portName": "APO EAST PASS",
+        "timezoneOffset": 8.0,
+        "latitude": 12.764,
+        "longitude": 120.681,
+        "rpCode": "AE",
+        "zoomLevel": 3,
+        "key": 102171,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102171"
+    },
+    {
+        "portName": "ELBE LUBECK KANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 53.371071,
+        "longitude": 10.566966,
+        "rpCode": "EK",
+        "zoomLevel": 3,
+        "key": 106186,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106186"
+    },
+    {
+        "portName": "RHEIN HERNE KANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 51.620517,
+        "longitude": 7.324516,
+        "rpCode": "RH",
+        "zoomLevel": 3,
+        "key": 106171,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106171"
+    },
+    {
+        "portName": "WESSEM NEDERWEERT",
+        "timezoneOffset": 1.0,
+        "latitude": 51.177254,
+        "longitude": 5.851799,
+        "rpCode": "WE",
+        "zoomLevel": 3,
+        "key": 106178,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106178"
+    },
+    {
+        "portName": "MITTELLAND KANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 52.3033,
+        "longitude": 8.91966,
+        "rpCode": "ML",
+        "zoomLevel": 3,
+        "key": 106181,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106181"
+    },
+    {
+        "portName": "AURSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 63.2551,
+        "longitude": 8.5219,
+        "rpCode": "AU",
+        "zoomLevel": 4,
+        "key": 110226,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110226"
+    },
+    {
+        "portName": "TORSETSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 63.3237,
+        "longitude": 8.6546,
+        "rpCode": "TR",
+        "zoomLevel": 4,
+        "key": 110227,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110227"
+    },
+    {
+        "portName": "HARAMSFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 62.6417,
+        "longitude": 6.1918,
+        "rpCode": "HR",
+        "zoomLevel": 4,
+        "key": 110264,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110264"
+    },
+    {
+        "portName": "WEST OF TRAENA",
+        "timezoneOffset": 1.0,
+        "latitude": 66.54,
+        "longitude": 11.721,
+        "rpCode": "WT",
+        "zoomLevel": 4,
+        "key": 110291,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110291"
+    },
+    {
+        "portName": "ROSTHAVET",
+        "timezoneOffset": 1.0,
+        "latitude": 67.579,
+        "longitude": 12.426,
+        "rpCode": "RZ",
+        "zoomLevel": 4,
+        "key": 110309,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110309"
+    },
+    {
+        "portName": "KARA STRAIT",
+        "timezoneOffset": 3.0,
+        "latitude": 70.5,
+        "longitude": 58.0,
+        "rpCode": "KR",
+        "zoomLevel": 3,
+        "key": 107271,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107271"
+    },
+    {
+        "portName": "DMITRIY LAPTEV STR",
+        "timezoneOffset": 11.0,
+        "latitude": 73.10376286259114,
+        "longitude": 141.18644468270878,
+        "rpCode": "DL",
+        "zoomLevel": 3,
+        "key": 107272,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107272"
+    },
+    {
+        "portName": "BALABAC STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 7.760237014989657,
+        "longitude": 116.99002695662332,
+        "rpCode": "BL",
+        "zoomLevel": 2,
+        "key": 104187,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104187"
+    },
+    {
+        "portName": "BASHI CHANNEL",
+        "timezoneOffset": 8.0,
+        "latitude": 21.500000000000004,
+        "longitude": 121.5,
+        "rpCode": "BC",
+        "zoomLevel": 3,
+        "key": 104190,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104190"
+    },
+    {
+        "portName": "SUNDA STRAIT",
+        "timezoneOffset": 7.0,
+        "latitude": -5.88447094431033,
+        "longitude": 105.97047498445131,
+        "rpCode": "SU",
+        "zoomLevel": 1,
+        "key": 100648,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100648"
+    },
+    {
+        "portName": "ALAS STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": -8.93224437805845,
+        "longitude": 116.64946165706812,
+        "rpCode": "AA",
+        "zoomLevel": 3,
+        "key": 100662,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100662"
+    },
+    {
+        "portName": "JOMARD ENTRANCE",
+        "timezoneOffset": 10.0,
+        "latitude": -11.2627,
+        "longitude": 152.11,
+        "rpCode": "JE",
+        "zoomLevel": 2,
+        "key": 102885,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102885"
+    },
+    {
+        "portName": "RYBINSK",
+        "timezoneOffset": 3.0,
+        "latitude": 58.065,
+        "longitude": 38.838,
+        "rpCode": "RY",
+        "zoomLevel": 3,
+        "key": 101138,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101138"
+    },
+    {
+        "portName": "LA PEROUSE STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 45.7,
+        "longitude": 142.0,
+        "rpCode": "LP",
+        "zoomLevel": 3,
+        "key": 102403,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102403"
+    },
+    {
+        "portName": "LOMBOK STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": -8.381879943070919,
+        "longitude": 115.8841833945913,
+        "rpCode": "LS",
+        "zoomLevel": 2,
+        "key": 102404,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102404"
+    },
+    {
+        "portName": "ST LUCIA CHANNEL",
+        "timezoneOffset": -4.0,
+        "latitude": 14.252,
+        "longitude": -60.913,
+        "rpCode": "LU",
+        "zoomLevel": 3,
+        "key": 102405,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102405"
+    },
+    {
+        "portName": "KASOU CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 35.36256620127778,
+        "longitude": 26.581408862251223,
+        "rpCode": "KO",
+        "zoomLevel": 3,
+        "key": 105262,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105262"
+    },
+    {
+        "portName": "FLORES ISLAND NW",
+        "timezoneOffset": -1.0,
+        "latitude": 39.94216192116345,
+        "longitude": -31.53089983011889,
+        "rpCode": "FI",
+        "zoomLevel": 3,
+        "key": 105662,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105662"
+    },
+    {
+        "portName": "NORTH BALABAC STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 8.227292038847033,
+        "longitude": 117.02996372744735,
+        "rpCode": "NB",
+        "zoomLevel": 3,
+        "key": 105670,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105670"
+    },
+    {
+        "portName": "FYRSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 60.80569,
+        "longitude": 4.79683,
+        "rpCode": "FY",
+        "zoomLevel": 3,
+        "key": 109482,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109482"
+    },
+    {
+        "portName": "NAKKEGRUNNEN",
+        "timezoneOffset": 1.0,
+        "latitude": 66.8189,
+        "longitude": 13.0649,
+        "rpCode": "NG",
+        "zoomLevel": 3,
+        "key": 109485,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109485"
+    },
+    {
+        "portName": "ST VINCENT PASS",
+        "timezoneOffset": -4.0,
+        "latitude": 13.569,
+        "longitude": -61.07,
+        "rpCode": "VI",
+        "zoomLevel": 6,
+        "key": 100599,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100599"
+    },
+    {
+        "portName": "GRUNNKALLEN LH",
+        "timezoneOffset": 1.0,
+        "latitude": 60.555,
+        "longitude": 19.0,
+        "rpCode": "GK",
+        "zoomLevel": 3,
+        "key": 105788,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105788"
+    },
+    {
+        "portName": "MANNING STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": -7.405433132432182,
+        "longitude": 158.05473325449168,
+        "rpCode": "MN",
+        "zoomLevel": 3,
+        "key": 105485,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105485"
+    },
+    {
+        "portName": "PANDORA PASSAGE",
+        "timezoneOffset": 10.0,
+        "latitude": -9.800333823162372,
+        "longitude": 144.80033382316245,
+        "rpCode": "PD",
+        "zoomLevel": 3,
+        "key": 105486,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105486"
+    },
+    {
+        "portName": "GOGLAND ISLAND",
+        "timezoneOffset": 3.0,
+        "latitude": 59.98,
+        "longitude": 27.0,
+        "rpCode": "GG",
+        "zoomLevel": 3,
+        "key": 105384,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105384"
+    },
+    {
+        "portName": "INDIAN OCEAN 12S 65E",
+        "timezoneOffset": 0.0,
+        "latitude": -12.0,
+        "longitude": 65.0,
+        "rpCode": "I2",
+        "zoomLevel": 2,
+        "key": 107782,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107782"
+    },
+    {
+        "portName": "INDIAN OCEAN 10N 68E",
+        "timezoneOffset": 0.0,
+        "latitude": 10.0,
+        "longitude": 68.0,
+        "rpCode": "I1",
+        "zoomLevel": 2,
+        "key": 107783,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107783"
+    },
+    {
+        "portName": "SNOW PASSAGE",
+        "timezoneOffset": -9.0,
+        "latitude": 56.281149,
+        "longitude": -132.958834,
+        "rpCode": "SN",
+        "zoomLevel": 3,
+        "key": 105221,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105221"
+    },
+    {
+        "portName": "ST GEORGES CHANNE",
+        "timezoneOffset": 10.0,
+        "latitude": 52.0,
+        "longitude": -6.0,
+        "rpCode": "SG",
+        "zoomLevel": 3,
+        "key": 105222,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105222"
+    },
+    {
+        "portName": "GEIYO SHOTO",
+        "timezoneOffset": 9.0,
+        "latitude": 34.136,
+        "longitude": 132.879,
+        "rpCode": "GS",
+        "zoomLevel": 3,
+        "key": 103188,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103188"
+    },
+    {
+        "portName": "KEFING STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": -3.8787596598364025,
+        "longitude": 130.87878563575808,
+        "rpCode": "KE",
+        "zoomLevel": 3,
+        "key": 105894,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105894"
+    },
+    {
+        "portName": "EQUATORIAL CHANNEL",
+        "timezoneOffset": 5.0,
+        "latitude": -0.027,
+        "longitude": 73.346,
+        "rpCode": "EQ",
+        "zoomLevel": 3,
+        "key": 106679,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106679"
+    },
+    {
+        "portName": "FURY AND HECLA",
+        "timezoneOffset": -5.0,
+        "latitude": 69.7287,
+        "longitude": -82.674,
+        "rpCode": "FU",
+        "zoomLevel": 3,
+        "key": 106684,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106684"
+    },
+    {
+        "portName": "CANIGAO CHANNEL",
+        "timezoneOffset": 8.0,
+        "latitude": 10.203920971233021,
+        "longitude": 124.67760337329199,
+        "rpCode": "CY",
+        "zoomLevel": 3,
+        "key": 106694,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106694"
+    },
+    {
+        "portName": "CAPE CORSE",
+        "timezoneOffset": 1.0,
+        "latitude": 43.07768421181289,
+        "longitude": 9.409169435093824,
+        "rpCode": "C1",
+        "zoomLevel": 4,
+        "key": 106696,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106696"
+    },
+    {
+        "portName": "ROTHENSEE LOCK",
+        "timezoneOffset": 1.0,
+        "latitude": 52.2246,
+        "longitude": 11.6685,
+        "rpCode": "RT",
+        "zoomLevel": 3,
+        "key": 106701,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106701"
+    },
+    {
+        "portName": "MOONSUND",
+        "timezoneOffset": 2.0,
+        "latitude": 58.71479947737102,
+        "longitude": 23.275649269284298,
+        "rpCode": "MO",
+        "zoomLevel": 3,
+        "key": 105770,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105770"
+    },
+    {
+        "portName": "NANUKU PASSAGE",
+        "timezoneOffset": 12.0,
+        "latitude": -16.689,
+        "longitude": -179.205,
+        "rpCode": "NP",
+        "zoomLevel": 3,
+        "key": 105295,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105295"
+    },
+    {
+        "portName": "DURIAN STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 0.6701501070601211,
+        "longitude": 103.70014643056162,
+        "rpCode": "DN",
+        "zoomLevel": 3,
+        "key": 105298,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105298"
+    },
+    {
+        "portName": "DEMPO STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 0.6090087885112176,
+        "longitude": 104.24490354169923,
+        "rpCode": "DM",
+        "zoomLevel": 3,
+        "key": 105299,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105299"
+    },
+    {
+        "portName": "BANGGI SELATAN",
+        "timezoneOffset": 0.0,
+        "latitude": 7.057003843415591,
+        "longitude": 117.00527678307962,
+        "rpCode": "BX",
+        "zoomLevel": 3,
+        "key": 105303,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105303"
+    },
+    {
+        "portName": "TUMAKOHUA PASS",
+        "timezoneOffset": -10.0,
+        "latitude": -16.623,
+        "longitude": -145.396,
+        "rpCode": "TU",
+        "zoomLevel": 3,
+        "key": 105310,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105310"
+    },
+    {
+        "portName": "LIGITAN CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 4.496106275226095,
+        "longitude": 118.7874743891577,
+        "rpCode": "LG",
+        "zoomLevel": 3,
+        "key": 105479,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105479"
+    },
+    {
+        "portName": "NANTUCKET SOUND",
+        "timezoneOffset": -5.0,
+        "latitude": 41.467,
+        "longitude": -70.036,
+        "rpCode": "NA",
+        "zoomLevel": 3,
+        "key": 105781,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105781"
+    },
+    {
+        "portName": "TRONDHEIMSLEIA",
+        "timezoneOffset": 1.0,
+        "latitude": 63.4311,
+        "longitude": 8.6723,
+        "rpCode": "TL",
+        "zoomLevel": 3,
+        "key": 105782,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105782"
+    },
+    {
+        "portName": "AKUTAN PASS",
+        "timezoneOffset": -10.0,
+        "latitude": 54.022,
+        "longitude": -166.057,
+        "rpCode": "AK",
+        "zoomLevel": 3,
+        "key": 106227,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106227"
+    },
+    {
+        "portName": "SOUTH OF HAINAN",
+        "timezoneOffset": 8.0,
+        "latitude": 17.814,
+        "longitude": 109.6,
+        "rpCode": "SH",
+        "zoomLevel": 3,
+        "key": 105293,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105293"
+    },
+    {
+        "portName": "WRANGELL NARROWS, AK",
+        "timezoneOffset": -9.0,
+        "latitude": 56.67562641556412,
+        "longitude": -132.93614395908656,
+        "rpCode": "WN",
+        "zoomLevel": 3,
+        "key": 105733,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105733"
+    },
+    {
+        "portName": "ECA GA",
+        "timezoneOffset": 0.0,
+        "latitude": 30.94,
+        "longitude": -75.19,
+        "rpCode": "EG",
+        "zoomLevel": 2,
+        "key": 108383,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108383"
+    },
+    {
+        "portName": "ECA NY",
+        "timezoneOffset": 0.0,
+        "latitude": 39.9,
+        "longitude": -64.88,
+        "rpCode": "EY",
+        "zoomLevel": 2,
+        "key": 108394,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108394"
+    },
+    {
+        "portName": "ECA GULF OF MEXICO",
+        "timezoneOffset": -5.0,
+        "latitude": 24.0,
+        "longitude": -80.606,
+        "rpCode": "GM",
+        "zoomLevel": 3,
+        "key": 108952,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108952"
+    },
+    {
+        "portName": "FROYFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 63.6547,
+        "longitude": 8.5876,
+        "rpCode": "FF",
+        "zoomLevel": 3,
+        "key": 108964,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108964"
+    },
+    {
+        "portName": "NORTH OF ANDOYA",
+        "timezoneOffset": 1.0,
+        "latitude": 69.37710468092844,
+        "longitude": 16.161829337276313,
+        "rpCode": "AY",
+        "zoomLevel": 3,
+        "key": 108971,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108971"
+    },
+    {
+        "portName": "NORTH CAPE NO",
+        "timezoneOffset": 1.0,
+        "latitude": 71.19793168123522,
+        "longitude": 25.675887389139838,
+        "rpCode": "NC",
+        "zoomLevel": 3,
+        "key": 108980,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108980"
+    },
+    {
+        "portName": "YTTERHOLMEN",
+        "timezoneOffset": 1.0,
+        "latitude": 65.975,
+        "longitude": 11.75,
+        "rpCode": "YH",
+        "zoomLevel": 3,
+        "key": 108636,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108636"
+    },
+    {
+        "portName": "WEST OF VIKNA",
+        "timezoneOffset": 1.0,
+        "latitude": 65.0,
+        "longitude": 10.45,
+        "rpCode": "WV",
+        "zoomLevel": 3,
+        "key": 108637,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108637"
+    },
+    {
+        "portName": "KUNNA",
+        "timezoneOffset": 1.0,
+        "latitude": 66.95242301475876,
+        "longitude": 13.47563042609413,
+        "rpCode": "KX",
+        "zoomLevel": 3,
+        "key": 108639,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108639"
+    },
+    {
+        "portName": "FLAGET",
+        "timezoneOffset": 1.0,
+        "latitude": 68.34620857413971,
+        "longitude": 15.29689594232995,
+        "rpCode": "FG",
+        "zoomLevel": 3,
+        "key": 108468,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108468"
+    },
+    {
+        "portName": "ECA WASHINGTON",
+        "timezoneOffset": 0.0,
+        "latitude": 46.12,
+        "longitude": -129.0,
+        "rpCode": "EW",
+        "zoomLevel": 2,
+        "key": 108368,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108368"
+    },
+    {
+        "portName": "ECA OREGON",
+        "timezoneOffset": 0.0,
+        "latitude": 42.99,
+        "longitude": -129.2,
+        "rpCode": "EO",
+        "zoomLevel": 2,
+        "key": 108369,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108369"
+    },
+    {
+        "portName": "ECA SAN FRANCISCO",
+        "timezoneOffset": 0.0,
+        "latitude": 37.41,
+        "longitude": -127.28,
+        "rpCode": "E6",
+        "zoomLevel": 2,
+        "key": 108370,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108370"
+    },
+    {
+        "portName": "ECA LOS ANGELES",
+        "timezoneOffset": 0.0,
+        "latitude": 34.0,
+        "longitude": -125.18,
+        "rpCode": "E5",
+        "zoomLevel": 2,
+        "key": 108371,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108371"
+    },
+    {
+        "portName": "ECA SAN DIEGO W",
+        "timezoneOffset": 0.0,
+        "latitude": 32.03,
+        "longitude": -124.33,
+        "rpCode": "D3",
+        "zoomLevel": 2,
+        "key": 108372,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108372"
+    },
+    {
+        "portName": "ECA SAN DIEGO SW",
+        "timezoneOffset": 0.0,
+        "latitude": 29.88,
+        "longitude": -121.29,
+        "rpCode": "D2",
+        "zoomLevel": 2,
+        "key": 108373,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108373"
+    },
+    {
+        "portName": "ECA SAN DIEGO S",
+        "timezoneOffset": 0.0,
+        "latitude": 30.52,
+        "longitude": -119.0,
+        "rpCode": "D1",
+        "zoomLevel": 2,
+        "key": 108374,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108374"
+    },
+    {
+        "portName": "ECA BROWNSVILLE",
+        "timezoneOffset": -6.0,
+        "latitude": 25.5,
+        "longitude": -96.6,
+        "rpCode": "BZ",
+        "zoomLevel": 2,
+        "key": 108377,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108377"
+    },
+    {
+        "portName": "ECA FLORIDA",
+        "timezoneOffset": 0.0,
+        "latitude": 28.11,
+        "longitude": -75.96,
+        "rpCode": "FL",
+        "zoomLevel": 2,
+        "key": 108382,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108382"
+    },
+    {
+        "portName": "IRBE STRAIT",
+        "timezoneOffset": 2.0,
+        "latitude": 57.73883702087346,
+        "longitude": 21.5,
+        "rpCode": "IB",
+        "zoomLevel": 3,
+        "key": 108625,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108625"
+    },
+    {
+        "portName": "ECA NC",
+        "timezoneOffset": 0.0,
+        "latitude": 32.95,
+        "longitude": -71.08,
+        "rpCode": "EN",
+        "zoomLevel": 2,
+        "key": 108384,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108384"
+    },
+    {
+        "portName": "ECA SC",
+        "timezoneOffset": 0.0,
+        "latitude": 31.89,
+        "longitude": -72.46,
+        "rpCode": "ES",
+        "zoomLevel": 2,
+        "key": 108385,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108385"
+    },
+    {
+        "portName": "ECA VA",
+        "timezoneOffset": 0.0,
+        "latitude": 36.45,
+        "longitude": -71.19,
+        "rpCode": "EV",
+        "zoomLevel": 2,
+        "key": 108392,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108392"
+    },
+    {
+        "portName": "ECA NJ",
+        "timezoneOffset": 0.0,
+        "latitude": 38.11,
+        "longitude": -67.06,
+        "rpCode": "EJ",
+        "zoomLevel": 2,
+        "key": 108393,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108393"
+    },
+    {
+        "portName": "ECA MAINE",
+        "timezoneOffset": 0.0,
+        "latitude": 39.94,
+        "longitude": -58.21,
+        "rpCode": "EM",
+        "zoomLevel": 2,
+        "key": 108395,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108395"
+    },
+    {
+        "portName": "ECA NOVA SCOTIA",
+        "timezoneOffset": 0.0,
+        "latitude": 42.94,
+        "longitude": -54.92,
+        "rpCode": "E3",
+        "zoomLevel": 2,
+        "key": 108396,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108396"
+    },
+    {
+        "portName": "ROSALIND CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 16.285,
+        "longitude": -80.831,
+        "rpCode": "RC",
+        "zoomLevel": 3,
+        "key": 105251,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105251"
+    },
+    {
+        "portName": "YUCATAN CHANNEL",
+        "timezoneOffset": -6.0,
+        "latitude": 21.666,
+        "longitude": -85.702,
+        "rpCode": "YC",
+        "zoomLevel": 3,
+        "key": 100080,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100080"
+    },
+    {
+        "portName": "RIJNKANAAL SCHELDE",
+        "timezoneOffset": 1.0,
+        "latitude": 51.4466,
+        "longitude": 4.2308,
+        "rpCode": "RK",
+        "zoomLevel": 3,
+        "key": 106390,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106390"
+    },
+    {
+        "portName": "BERGSE MAAS",
+        "timezoneOffset": 1.0,
+        "latitude": 51.736973,
+        "longitude": 5.123572,
+        "rpCode": "BM",
+        "zoomLevel": 3,
+        "key": 106392,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106392"
+    },
+    {
+        "portName": "MAAS-WAAL KANAAL",
+        "timezoneOffset": 1.0,
+        "latitude": 51.828866,
+        "longitude": 5.807866,
+        "rpCode": "WK",
+        "zoomLevel": 3,
+        "key": 106396,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106396"
+    },
+    {
+        "portName": "ALBERT-MAAS",
+        "timezoneOffset": 1.0,
+        "latitude": 50.7921,
+        "longitude": 5.68949,
+        "rpCode": "AM",
+        "zoomLevel": 3,
+        "key": 106398,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106398"
+    },
+    {
+        "portName": "KIEL CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 54.284462,
+        "longitude": 9.642964,
+        "rpCode": "KC",
+        "zoomLevel": 2,
+        "key": 102813,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102813"
+    },
+    {
+        "portName": "KANMON STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 33.932048,
+        "longitude": 130.936218,
+        "rpCode": "KN",
+        "zoomLevel": 2,
+        "key": 102815,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102815"
+    },
+    {
+        "portName": "TORRES STRAIT",
+        "timezoneOffset": 10.0,
+        "latitude": -10.498362,
+        "longitude": 142.293808,
+        "rpCode": "TO",
+        "zoomLevel": 1,
+        "key": 100419,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100419"
+    },
+    {
+        "portName": "CAPE COD CANAL",
+        "timezoneOffset": -5.0,
+        "latitude": 41.753399743004984,
+        "longitude": -70.57750908399643,
+        "rpCode": "XC",
+        "zoomLevel": 3,
+        "key": 103957,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103957"
+    },
+    {
+        "portName": "DIRIANGEN CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 16.0,
+        "longitude": -81.0,
+        "rpCode": "DI",
+        "zoomLevel": 3,
+        "key": 105250,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105250"
+    },
+    {
+        "portName": "GAVDHOS ISLAND",
+        "timezoneOffset": 0.0,
+        "latitude": 34.84759740063878,
+        "longitude": 24.118538320539532,
+        "rpCode": "GD",
+        "zoomLevel": 3,
+        "key": 105256,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105256"
+    },
+    {
+        "portName": "CAP SAINTE MARIE",
+        "timezoneOffset": 3.0,
+        "latitude": -25.841766018075948,
+        "longitude": 45.15823398192405,
+        "rpCode": "MR",
+        "zoomLevel": 3,
+        "key": 103955,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103955"
+    },
+    {
+        "portName": "FORMOSA STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 25.253,
+        "longitude": 120.641,
+        "rpCode": "FO",
+        "zoomLevel": 3,
+        "key": 103418,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103418"
+    },
+    {
+        "portName": "ANDIKITHERA CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 35.75152839814894,
+        "longitude": 23.433042605723575,
+        "rpCode": "AC",
+        "zoomLevel": 3,
+        "key": 105257,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105257"
+    },
+    {
+        "portName": "CORINTH CANAL",
+        "timezoneOffset": 2.0,
+        "latitude": 37.951949398076394,
+        "longitude": 22.960052598989904,
+        "rpCode": "CC",
+        "zoomLevel": 2,
+        "key": 103907,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103907"
+    },
+    {
+        "portName": "BISHOP ROCK",
+        "timezoneOffset": 0.0,
+        "latitude": 49.6397411075618,
+        "longitude": -6.5,
+        "rpCode": "BR",
+        "zoomLevel": 2,
+        "key": 104066,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104066"
+    },
+    {
+        "portName": "FLORIDA STRAIT",
+        "timezoneOffset": -5.0,
+        "latitude": 27.475,
+        "longitude": -79.3,
+        "rpCode": "FS",
+        "zoomLevel": 3,
+        "key": 103375,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103375"
+    },
+    {
+        "portName": "BONDOYA, NORTH OF",
+        "timezoneOffset": 1.0,
+        "latitude": 70.92404530637747,
+        "longitude": 22.90125056616933,
+        "rpCode": "B7",
+        "zoomLevel": 3,
+        "key": 103397,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103397"
+    },
+    {
+        "portName": "BONIFACIO STRAIT",
+        "timezoneOffset": 1.0,
+        "latitude": 41.30015983735238,
+        "longitude": 9.227719071024406,
+        "rpCode": "BN",
+        "zoomLevel": 3,
+        "key": 104108,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104108"
+    },
+    {
+        "portName": "BOSPORUS STRAIT",
+        "timezoneOffset": 3.0,
+        "latitude": 41.10741859299092,
+        "longitude": 29.063844555808988,
+        "rpCode": "BO",
+        "zoomLevel": 2,
+        "key": 104109,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104109"
+    },
+    {
+        "portName": "OTRANTO STRAIT",
+        "timezoneOffset": 1.0,
+        "latitude": 40.0,
+        "longitude": 19.0,
+        "rpCode": "OT",
+        "zoomLevel": 3,
+        "key": 101774,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101774"
+    },
+    {
+        "portName": "ST GEORGE'S CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 52.0,
+        "longitude": -5.85,
+        "rpCode": "GE",
+        "zoomLevel": 3,
+        "key": 105263,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105263"
+    },
+    {
+        "portName": "CAPE FINISTERRE",
+        "timezoneOffset": 1.0,
+        "latitude": 43.26072158852028,
+        "longitude": -10.023932465364874,
+        "rpCode": "CF",
+        "zoomLevel": 3,
+        "key": 103920,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103920"
+    },
+    {
+        "portName": "CAPE FAREWELL",
+        "timezoneOffset": -4.0,
+        "latitude": 59.5381998390409,
+        "longitude": -44.03893971914537,
+        "rpCode": "CP",
+        "zoomLevel": 3,
+        "key": 103959,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/103959"
+    },
+    {
+        "portName": "GOLETAS",
+        "timezoneOffset": -8.0,
+        "latitude": 50.902,
+        "longitude": -128.046,
+        "rpCode": "GO",
+        "zoomLevel": 3,
+        "key": 105714,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105714"
+    },
+    {
+        "portName": "FORLANDSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 78.459,
+        "longitude": 12.135,
+        "rpCode": "FT",
+        "zoomLevel": 3,
+        "key": 109704,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109704"
+    },
+    {
+        "portName": "KONG OSCAR FJORD",
+        "timezoneOffset": -4.0,
+        "latitude": 72.04,
+        "longitude": -22.549,
+        "rpCode": "OF",
+        "zoomLevel": 3,
+        "key": 109713,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109713"
+    },
+    {
+        "portName": "FRANZ JOSEPH FJORD",
+        "timezoneOffset": -4.0,
+        "latitude": 73.216,
+        "longitude": -22.6294,
+        "rpCode": "FJ",
+        "zoomLevel": 3,
+        "key": 109714,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109714"
+    },
+    {
+        "portName": "HOLEN, NORDFJORD",
+        "timezoneOffset": 1.0,
+        "latitude": 61.977,
+        "longitude": 4.89,
+        "rpCode": "NF",
+        "zoomLevel": 3,
+        "key": 109770,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109770"
+    },
+    {
+        "portName": "DORSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 69.754,
+        "longitude": 18.154,
+        "rpCode": "DO",
+        "zoomLevel": 3,
+        "key": 109772,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109772"
+    },
+    {
+        "portName": "KVALOYFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 59.411,
+        "longitude": 5.154,
+        "rpCode": "02",
+        "zoomLevel": 3,
+        "key": 109779,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109779"
+    },
+    {
+        "portName": "SOUTH OF INDIA",
+        "timezoneOffset": 5.5,
+        "latitude": 5.0,
+        "longitude": 78.0,
+        "rpCode": "I4",
+        "zoomLevel": 2,
+        "key": 107925,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107925"
+    },
+    {
+        "portName": "RED SEA",
+        "timezoneOffset": 2.0,
+        "latitude": 18.233922951552813,
+        "longitude": 39.96703407064572,
+        "rpCode": "RD",
+        "zoomLevel": 3,
+        "key": 107924,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107924"
+    },
+    {
+        "portName": "WESEL DATTELN KANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 51.662911,
+        "longitude": 7.364821,
+        "rpCode": "WD",
+        "zoomLevel": 3,
+        "key": 106176,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106176"
+    },
+    {
+        "portName": "TONKIN GULF",
+        "timezoneOffset": 7.0,
+        "latitude": 17.25,
+        "longitude": 109.0,
+        "rpCode": "TG",
+        "zoomLevel": 3,
+        "key": 106645,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106645"
+    },
+    {
+        "portName": "PRINCESS ROYAL CH.",
+        "timezoneOffset": -8.0,
+        "latitude": 52.884,
+        "longitude": -128.508,
+        "rpCode": "RO",
+        "zoomLevel": 3,
+        "key": 104943,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104943"
+    },
+    {
+        "portName": "GRENVILLE CHANNEL",
+        "timezoneOffset": -8.0,
+        "latitude": 53.707568,
+        "longitude": -129.806052,
+        "rpCode": "GV",
+        "zoomLevel": 3,
+        "key": 104944,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104944"
+    },
+    {
+        "portName": "PALM PASSAGE",
+        "timezoneOffset": 10.0,
+        "latitude": -18.21098413775943,
+        "longitude": 147.12627715365343,
+        "rpCode": "PP",
+        "zoomLevel": 3,
+        "key": 104924,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104924"
+    },
+    {
+        "portName": "HYDROGRAPHERS PASS",
+        "timezoneOffset": 10.0,
+        "latitude": -19.749462739612913,
+        "longitude": 150.3829020279973,
+        "rpCode": "HP",
+        "zoomLevel": 3,
+        "key": 104926,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104926"
+    },
+    {
+        "portName": "KARDIVA CHANNEL",
+        "timezoneOffset": 5.0,
+        "latitude": 4.877,
+        "longitude": 73.443,
+        "rpCode": "KD",
+        "zoomLevel": 3,
+        "key": 104927,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104927"
+    },
+    {
+        "portName": "GRENADA PASSAGE",
+        "timezoneOffset": -4.0,
+        "latitude": 12.369,
+        "longitude": -61.532,
+        "rpCode": "GN",
+        "zoomLevel": 3,
+        "key": 104928,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104928"
+    },
+    {
+        "portName": "KOREA STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 34.859,
+        "longitude": 129.216,
+        "rpCode": "KS",
+        "zoomLevel": 2,
+        "key": 102609,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102609"
+    },
+    {
+        "portName": "HOWARD CHANNEL",
+        "timezoneOffset": 9.5,
+        "latitude": -12.081945379609866,
+        "longitude": 131.03870150106795,
+        "rpCode": "HC",
+        "zoomLevel": 4,
+        "key": 104880,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104880"
+    },
+    {
+        "portName": "CAPE ZHELANIYA",
+        "timezoneOffset": 3.0,
+        "latitude": 77.09514950362681,
+        "longitude": 67.75654334422573,
+        "rpCode": "CZ",
+        "zoomLevel": 3,
+        "key": 105765,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105765"
+    },
+    {
+        "portName": "HELL GATE",
+        "timezoneOffset": -5.0,
+        "latitude": 40.779746,
+        "longitude": -73.926772,
+        "rpCode": "HG",
+        "zoomLevel": 3,
+        "key": 105899,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105899"
+    },
+    {
+        "portName": "DELAWARE RIVER",
+        "timezoneOffset": -5.0,
+        "latitude": 39.291881486631155,
+        "longitude": -75.36781828227454,
+        "rpCode": "DR",
+        "zoomLevel": 3,
+        "key": 105901,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105901"
+    },
+    {
+        "portName": "MISS/TENNESSEE",
+        "timezoneOffset": -6.0,
+        "latitude": 34.918633,
+        "longitude": -88.239696,
+        "rpCode": "MT",
+        "zoomLevel": 6,
+        "key": 107627,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107627"
+    },
+    {
+        "portName": "KYA LH",
+        "timezoneOffset": 1.0,
+        "latitude": 64.465,
+        "longitude": 10.15,
+        "rpCode": "KY",
+        "zoomLevel": 3,
+        "key": 108614,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108614"
+    },
+    {
+        "portName": "CAPE AGULHAS",
+        "timezoneOffset": 2.0,
+        "latitude": -35.014678361363245,
+        "longitude": 20.00358414593694,
+        "rpCode": "GH",
+        "zoomLevel": 1,
+        "key": 105363,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105363"
+    },
+    {
+        "portName": "PANAMA CANAL",
+        "timezoneOffset": -5.0,
+        "latitude": 9.1184,
+        "longitude": -79.7962,
+        "rpCode": "PC",
+        "zoomLevel": 1,
+        "key": 101690,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101690"
+    },
+    {
+        "portName": "OSUMI STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 30.928398673149033,
+        "longitude": 130.87953452752362,
+        "rpCode": "OS",
+        "zoomLevel": 3,
+        "key": 101763,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101763"
+    },
+    {
+        "portName": "ISOKARI LH",
+        "timezoneOffset": 2.0,
+        "latitude": 60.693924902494715,
+        "longitude": 21.012588191176807,
+        "rpCode": "IS",
+        "zoomLevel": 3,
+        "key": 105655,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105655"
+    },
+    {
+        "portName": "GRAFTON PASSAGE",
+        "timezoneOffset": 10.0,
+        "latitude": -16.642719455248287,
+        "longitude": 146.24059900334552,
+        "rpCode": "GR",
+        "zoomLevel": 3,
+        "key": 104925,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104925"
+    },
+    {
+        "portName": "WEST OF HEBRIDES",
+        "timezoneOffset": 0.0,
+        "latitude": 57.5,
+        "longitude": -8.0,
+        "rpCode": "HW",
+        "zoomLevel": 3,
+        "key": 107949,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107949"
+    },
+    {
+        "portName": "THE LITTLE MINCH",
+        "timezoneOffset": 0.0,
+        "latitude": 57.666,
+        "longitude": -6.75,
+        "rpCode": "LM",
+        "zoomLevel": 3,
+        "key": 107950,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107950"
+    },
+    {
+        "portName": "AROIH CUT",
+        "timezoneOffset": 0.0,
+        "latitude": 5.582401640412763,
+        "longitude": 95.16846538458627,
+        "rpCode": "AH",
+        "zoomLevel": 3,
+        "key": 105469,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105469"
+    },
+    {
+        "portName": "LANDS END",
+        "timezoneOffset": 0.0,
+        "latitude": 50.0,
+        "longitude": -6.0,
+        "rpCode": "LE",
+        "zoomLevel": 3,
+        "key": 102473,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102473"
+    },
+    {
+        "portName": "KVALSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 70.5124,
+        "longitude": 23.9526,
+        "rpCode": "KV",
+        "zoomLevel": 3,
+        "key": 108789,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108789"
+    },
+    {
+        "portName": "MOCAMBIQUE CHANNEL",
+        "timezoneOffset": 2.0,
+        "latitude": -15.5,
+        "longitude": 41.085612326041876,
+        "rpCode": "MC",
+        "zoomLevel": 2,
+        "key": 102226,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102226"
+    },
+    {
+        "portName": "MESSINA STRAIT",
+        "timezoneOffset": 1.0,
+        "latitude": 38.26268170975833,
+        "longitude": 15.681908202897285,
+        "rpCode": "ME",
+        "zoomLevel": 3,
+        "key": 102227,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102227"
+    },
+    {
+        "portName": "CHESAPEAKE DEL CANAL",
+        "timezoneOffset": -5.0,
+        "latitude": 39.5439,
+        "longitude": -75.7125,
+        "rpCode": "CD",
+        "zoomLevel": 3,
+        "key": 105759,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105759"
+    },
+    {
+        "portName": "MIDWAY ISLANDS",
+        "timezoneOffset": -11.0,
+        "latitude": 28.2,
+        "longitude": -177.383,
+        "rpCode": "MW",
+        "zoomLevel": 3,
+        "key": 102053,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102053"
+    },
+    {
+        "portName": "BURGUMER MAR",
+        "timezoneOffset": 1.0,
+        "latitude": 53.1966,
+        "longitude": 6.0422,
+        "rpCode": "B3",
+        "zoomLevel": 5,
+        "key": 109993,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109993"
+    },
+    {
+        "portName": "BRATTSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 66.7773,
+        "longitude": 13.502,
+        "rpCode": "B4",
+        "zoomLevel": 4,
+        "key": 110198,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110198"
+    },
+    {
+        "portName": "CHESTERFIELD PASSAGE",
+        "timezoneOffset": 11.0,
+        "latitude": -20.34981,
+        "longitude": 158.67174,
+        "rpCode": "C2",
+        "zoomLevel": 3,
+        "key": 110543,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110543"
+    },
+    {
+        "portName": "SAGGOFJARDEN",
+        "timezoneOffset": 2.0,
+        "latitude": 60.4212,
+        "longitude": 19.9839,
+        "rpCode": "S8",
+        "zoomLevel": 3,
+        "key": 110582,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110582"
+    },
+    {
+        "portName": "WA PIRACY",
+        "timezoneOffset": 4.0,
+        "latitude": 14.0,
+        "longitude": 60.0,
+        "rpCode": "WA",
+        "zoomLevel": 3,
+        "key": 110584,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110584"
+    },
+    {
+        "portName": "SE OF HAWAI",
+        "timezoneOffset": -10.0,
+        "latitude": 17.0,
+        "longitude": -151.5,
+        "rpCode": "S5",
+        "zoomLevel": 2,
+        "key": 110547,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110547"
+    },
+    {
+        "portName": "OGNOY BRO",
+        "timezoneOffset": 1.0,
+        "latitude": 59.2508,
+        "longitude": 5.472,
+        "rpCode": "OG",
+        "zoomLevel": 4,
+        "key": 110552,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110552"
+    },
+    {
+        "portName": "SULFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 63.828,
+        "longitude": 8.58,
+        "rpCode": "S7",
+        "zoomLevel": 3,
+        "key": 110557,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110557"
+    },
+    {
+        "portName": "LEDSUND",
+        "timezoneOffset": 2.0,
+        "latitude": 59.9642,
+        "longitude": 20.1732,
+        "rpCode": "LX",
+        "zoomLevel": 5,
+        "key": 110574,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110574"
+    },
+    {
+        "portName": "FJARDSKAR ISLAND",
+        "timezoneOffset": 2.0,
+        "latitude": 60.3066,
+        "longitude": 21.3904,
+        "rpCode": "F5",
+        "zoomLevel": 4,
+        "key": 110576,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110576"
+    },
+    {
+        "portName": "UNIMAK PASS",
+        "timezoneOffset": -9.0,
+        "latitude": 54.312671797208985,
+        "longitude": -164.76515448780466,
+        "rpCode": "UP",
+        "zoomLevel": 3,
+        "key": 100287,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100287"
+    },
+    {
+        "portName": "USHANT",
+        "timezoneOffset": 1.0,
+        "latitude": 48.7833,
+        "longitude": -5.68333,
+        "rpCode": "US",
+        "zoomLevel": 3,
+        "key": 100291,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100291"
+    },
+    {
+        "portName": "POINT GALERA",
+        "timezoneOffset": -4.0,
+        "latitude": 10.95,
+        "longitude": -60.9,
+        "rpCode": "PG",
+        "zoomLevel": 3,
+        "key": 100321,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100321"
+    },
+    {
+        "portName": "ROGNESUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 60.4966,
+        "longitude": 4.931,
+        "rpCode": "RG",
+        "zoomLevel": 3,
+        "key": 108833,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108833"
+    },
+    {
+        "portName": "TVIBYRGSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 61.351,
+        "longitude": 4.8723,
+        "rpCode": "TV",
+        "zoomLevel": 3,
+        "key": 108834,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108834"
+    },
+    {
+        "portName": "MAYAGUANA PASSAGE",
+        "timezoneOffset": -5.0,
+        "latitude": 22.529,
+        "longitude": -73.303,
+        "rpCode": "MG",
+        "zoomLevel": 3,
+        "key": 106627,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106627"
+    },
+    {
+        "portName": "TURKS ISLAND PASSAGE",
+        "timezoneOffset": -5.0,
+        "latitude": 21.328,
+        "longitude": -71.353,
+        "rpCode": "TP",
+        "zoomLevel": 3,
+        "key": 106628,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106628"
+    },
+    {
+        "portName": "RUGSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 61.87235,
+        "longitude": 5.3094,
+        "rpCode": "RU",
+        "zoomLevel": 3,
+        "key": 106636,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106636"
+    },
+    {
+        "portName": "NAEROYSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 64.8507,
+        "longitude": 11.2184,
+        "rpCode": "NY",
+        "zoomLevel": 3,
+        "key": 106637,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106637"
+    },
+    {
+        "portName": "FROHAVET",
+        "timezoneOffset": 1.0,
+        "latitude": 64.2539,
+        "longitude": 9.8509,
+        "rpCode": "FH",
+        "zoomLevel": 3,
+        "key": 109560,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109560"
+    },
+    {
+        "portName": "FLESAFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 64.0865,
+        "longitude": 9.9307,
+        "rpCode": "FA",
+        "zoomLevel": 3,
+        "key": 109561,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109561"
+    },
+    {
+        "portName": "STOKKEN",
+        "timezoneOffset": 1.0,
+        "latitude": 64.0639,
+        "longitude": 10.0339,
+        "rpCode": "SQ",
+        "zoomLevel": 3,
+        "key": 109562,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109562"
+    },
+    {
+        "portName": "ODDESUND",
+        "timezoneOffset": 1.0,
+        "latitude": 56.58219258413539,
+        "longitude": 8.563671647006087,
+        "rpCode": "OD",
+        "zoomLevel": 3,
+        "key": 105904,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105904"
+    },
+    {
+        "portName": "PO 31N 150W",
+        "timezoneOffset": -10.0,
+        "latitude": 31.0,
+        "longitude": -150.0,
+        "rpCode": "P1",
+        "zoomLevel": 3,
+        "key": 108141,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108141"
+    },
+    {
+        "portName": "YEKATERINY STRAIT",
+        "timezoneOffset": 11.0,
+        "latitude": 44.3601,
+        "longitude": 146.7348,
+        "rpCode": "YS",
+        "zoomLevel": 3,
+        "key": 108142,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108142"
+    },
+    {
+        "portName": "OUDE MAAS",
+        "timezoneOffset": 1.0,
+        "latitude": 51.811304,
+        "longitude": 4.650147,
+        "rpCode": "OU",
+        "zoomLevel": 3,
+        "key": 107716,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107716"
+    },
+    {
+        "portName": "NATUNA PASSAGE",
+        "timezoneOffset": 7.0,
+        "latitude": 3.335,
+        "longitude": 108.606,
+        "rpCode": "NT",
+        "zoomLevel": 3,
+        "key": 107720,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107720"
+    },
+    {
+        "portName": "EAST OF BORNEO",
+        "timezoneOffset": 7.0,
+        "latitude": 0.863012217171504,
+        "longitude": 108.33916881078555,
+        "rpCode": "B2",
+        "zoomLevel": 3,
+        "key": 107721,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107721"
+    },
+    {
+        "portName": "VOLTAIRE PASSAGE",
+        "timezoneOffset": 8.0,
+        "latitude": -14.213064038867635,
+        "longitude": 125.6411079794968,
+        "rpCode": "VO",
+        "zoomLevel": 3,
+        "key": 107726,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107726"
+    },
+    {
+        "portName": "DAXI CHANNEL",
+        "timezoneOffset": 8.0,
+        "latitude": 21.9335,
+        "longitude": 113.5501,
+        "rpCode": "DX",
+        "zoomLevel": 3,
+        "key": 107729,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107729"
+    },
+    {
+        "portName": "EAST OF SEYCHELLES",
+        "timezoneOffset": 4.0,
+        "latitude": -5.5,
+        "longitude": 57.5,
+        "rpCode": "SZ",
+        "zoomLevel": 3,
+        "key": 107732,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107732"
+    },
+    {
+        "portName": "PATINTI STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": -0.4430337286531249,
+        "longitude": 127.71455426430319,
+        "rpCode": "PT",
+        "zoomLevel": 3,
+        "key": 107739,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107739"
+    },
+    {
+        "portName": "NYLEIA",
+        "timezoneOffset": 1.0,
+        "latitude": 59.9269,
+        "longitude": 5.1792,
+        "rpCode": "NX",
+        "zoomLevel": 3,
+        "key": 108842,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108842"
+    },
+    {
+        "portName": "THERMIA CHANNEL",
+        "timezoneOffset": 2.0,
+        "latitude": 37.501,
+        "longitude": 24.347,
+        "rpCode": "TC",
+        "zoomLevel": 3,
+        "key": 108319,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108319"
+    },
+    {
+        "portName": "BLITVENICA LH",
+        "timezoneOffset": 1.0,
+        "latitude": 43.625636957913656,
+        "longitude": 15.574254861691038,
+        "rpCode": "BH",
+        "zoomLevel": 3,
+        "key": 108322,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108322"
+    },
+    {
+        "portName": "NAPPSTRAUMEN",
+        "timezoneOffset": 1.0,
+        "latitude": 68.149,
+        "longitude": 13.4629,
+        "rpCode": "NS",
+        "zoomLevel": 3,
+        "key": 108339,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108339"
+    },
+    {
+        "portName": "WEST OF LOFOTEN",
+        "timezoneOffset": 1.0,
+        "latitude": 68.0,
+        "longitude": 12.5,
+        "rpCode": "WL",
+        "zoomLevel": 3,
+        "key": 108341,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108341"
+    },
+    {
+        "portName": "RADSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 60.7215,
+        "longitude": 5.0434,
+        "rpCode": "RN",
+        "zoomLevel": 3,
+        "key": 109216,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109216"
+    },
+    {
+        "portName": "KUSTENKANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 53.083876,
+        "longitude": 7.987556,
+        "rpCode": "KK",
+        "zoomLevel": 3,
+        "key": 107667,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107667"
+    },
+    {
+        "portName": "VIRGIN PASSAGE",
+        "timezoneOffset": -4.0,
+        "latitude": 18.367,
+        "longitude": -65.162,
+        "rpCode": "VP",
+        "zoomLevel": 3,
+        "key": 100221,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100221"
+    },
+    {
+        "portName": "SAN BERNARDINO STR",
+        "timezoneOffset": 8.0,
+        "latitude": 12.644862524957292,
+        "longitude": 124.21549313272955,
+        "rpCode": "SB",
+        "zoomLevel": 2,
+        "key": 100962,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100962"
+    },
+    {
+        "portName": "SUEZ CANAL",
+        "timezoneOffset": 2.0,
+        "latitude": 30.565620800000012,
+        "longitude": 32.303945899999995,
+        "rpCode": "SC",
+        "zoomLevel": 1,
+        "key": 100963,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100963"
+    },
+    {
+        "portName": "OLD RIVER LOCK, LA",
+        "timezoneOffset": -6.0,
+        "latitude": 31.0024,
+        "longitude": -91.67191,
+        "rpCode": "R1",
+        "zoomLevel": 4,
+        "key": 110344,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110344"
+    },
+    {
+        "portName": "ATCHAFALAYA RIVER",
+        "timezoneOffset": -6.0,
+        "latitude": 30.3069,
+        "longitude": -91.6193,
+        "rpCode": "AZ",
+        "zoomLevel": 4,
+        "key": 110345,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110345"
+    },
+    {
+        "portName": "AVOCA ISLAND CUTOFF",
+        "timezoneOffset": -6.0,
+        "latitude": 29.6029,
+        "longitude": -91.1532,
+        "rpCode": "A4",
+        "zoomLevel": 4,
+        "key": 110346,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110346"
+    },
+    {
+        "portName": "ALLGIERS LOCK, LA",
+        "timezoneOffset": -6.0,
+        "latitude": 29.91505,
+        "longitude": -89.97221,
+        "rpCode": "A5",
+        "zoomLevel": 4,
+        "key": 110348,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110348"
+    },
+    {
+        "portName": "LELAND BOWMAN LOCK",
+        "timezoneOffset": -6.0,
+        "latitude": 29.7858,
+        "longitude": -92.2063,
+        "rpCode": "L2",
+        "zoomLevel": 4,
+        "key": 110350,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110350"
+    },
+    {
+        "portName": "BAYOU LAFOURCHE, LA",
+        "timezoneOffset": -6.0,
+        "latitude": 29.30533,
+        "longitude": -90.2338,
+        "rpCode": "LA",
+        "zoomLevel": 4,
+        "key": 110352,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110352"
+    },
+    {
+        "portName": "VIKARBUKTEN",
+        "timezoneOffset": 2.0,
+        "latitude": 59.9096,
+        "longitude": 22.5123,
+        "rpCode": "VK",
+        "zoomLevel": 4,
+        "key": 110447,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110447"
+    },
+    {
+        "portName": "CALCASIEU LAKE, LA",
+        "timezoneOffset": -6.0,
+        "latitude": 30.0916,
+        "longitude": -93.3248,
+        "rpCode": "CQ",
+        "zoomLevel": 4,
+        "key": 110357,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110357"
+    },
+    {
+        "portName": "STRAUMSFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 61.0091,
+        "longitude": 4.6331,
+        "rpCode": "S6",
+        "zoomLevel": 3,
+        "key": 110380,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110380"
+    },
+    {
+        "portName": "VERJESKIFTBRUA",
+        "timezoneOffset": 1.0,
+        "latitude": 63.47815,
+        "longitude": 7.9935,
+        "rpCode": "VB",
+        "zoomLevel": 4,
+        "key": 110423,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110423"
+    },
+    {
+        "portName": "LOVSKARS FJARDEN",
+        "timezoneOffset": 2.0,
+        "latitude": 60.12015,
+        "longitude": 21.30551,
+        "rpCode": "LF",
+        "zoomLevel": 5,
+        "key": 110442,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110442"
+    },
+    {
+        "portName": "SOUTH OF HAWAII",
+        "timezoneOffset": -10.0,
+        "latitude": 15.0,
+        "longitude": -156.0,
+        "rpCode": "S4",
+        "zoomLevel": 2,
+        "key": 110450,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110450"
+    },
+    {
+        "portName": "PORT ALLEN LOCK, LA",
+        "timezoneOffset": -6.0,
+        "latitude": 30.4324,
+        "longitude": -91.211,
+        "rpCode": "A6",
+        "zoomLevel": 3,
+        "key": 110452,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110452"
+    },
+    {
+        "portName": "ALTERFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 65.934,
+        "longitude": 12.29,
+        "rpCode": "A3",
+        "zoomLevel": 4,
+        "key": 109927,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109927"
+    },
+    {
+        "portName": "ULVANGEN FJORD",
+        "timezoneOffset": 1.0,
+        "latitude": 66.04,
+        "longitude": 12.607,
+        "rpCode": "UL",
+        "zoomLevel": 3,
+        "key": 109929,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109929"
+    },
+    {
+        "portName": "KVERNSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 68.9765,
+        "longitude": 16.4744,
+        "rpCode": "KZ",
+        "zoomLevel": 3,
+        "key": 109934,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109934"
+    },
+    {
+        "portName": "TSSNO",
+        "timezoneOffset": 1.0,
+        "latitude": 59.0,
+        "longitude": 4.0,
+        "rpCode": "N6",
+        "zoomLevel": 3,
+        "key": 109947,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109947"
+    },
+    {
+        "portName": "NARUTO BRIDGE",
+        "timezoneOffset": 9.0,
+        "latitude": 34.2389,
+        "longitude": 134.6517,
+        "rpCode": "N5",
+        "zoomLevel": 4,
+        "key": 109951,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109951"
+    },
+    {
+        "portName": "RENSOYSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 66.1988,
+        "longitude": 12.4394,
+        "rpCode": "RX",
+        "zoomLevel": 3,
+        "key": 109952,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109952"
+    },
+    {
+        "portName": "FLEINVAERFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 67.138,
+        "longitude": 13.806,
+        "rpCode": "FV",
+        "zoomLevel": 3,
+        "key": 108426,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108426"
+    },
+    {
+        "portName": "ASVAER PS",
+        "timezoneOffset": 1.0,
+        "latitude": 66.2833,
+        "longitude": 12.2083,
+        "rpCode": "AV",
+        "zoomLevel": 3,
+        "key": 108407,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108407"
+    },
+    {
+        "portName": "MACCLESFIELD STRAIT",
+        "timezoneOffset": 7.0,
+        "latitude": -2.935000286925648,
+        "longitude": 106.96540715986518,
+        "rpCode": "MF",
+        "zoomLevel": 3,
+        "key": 108447,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108447"
+    },
+    {
+        "portName": "TOKARA STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 30.142325263617966,
+        "longitude": 130.2430995869559,
+        "rpCode": "TK",
+        "zoomLevel": 3,
+        "key": 105039,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105039"
+    },
+    {
+        "portName": "NAKANOSHIMA STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 29.74160608597231,
+        "longitude": 129.7795084437704,
+        "rpCode": "NK",
+        "zoomLevel": 3,
+        "key": 105038,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105038"
+    },
+    {
+        "portName": "RIAU STRAIT",
+        "timezoneOffset": 7.0,
+        "latitude": 0.7747482063706581,
+        "longitude": 104.3607317831508,
+        "rpCode": "RS",
+        "zoomLevel": 3,
+        "key": 105042,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105042"
+    },
+    {
+        "portName": "NEUMAYER CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": -64.7782,
+        "longitude": -63.3633,
+        "rpCode": "NU",
+        "zoomLevel": 3,
+        "key": 107083,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107083"
+    },
+    {
+        "portName": "IJSSEL",
+        "timezoneOffset": 1.0,
+        "latitude": 52.4394,
+        "longitude": 6.1119,
+        "rpCode": "IJ",
+        "zoomLevel": 3,
+        "key": 109985,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109985"
+    },
+    {
+        "portName": "LESO RENDE",
+        "timezoneOffset": 1.0,
+        "latitude": 57.220582663733566,
+        "longitude": 10.67124277914456,
+        "rpCode": "LR",
+        "zoomLevel": 3,
+        "key": 106138,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106138"
+    },
+    {
+        "portName": "INISHTRAHULL",
+        "timezoneOffset": 0.0,
+        "latitude": 55.5,
+        "longitude": -7.25,
+        "rpCode": "IN",
+        "zoomLevel": 3,
+        "key": 102909,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102909"
+    },
+    {
+        "portName": "ANDROS TINOS STRAIT",
+        "timezoneOffset": 2.0,
+        "latitude": 37.67946140495062,
+        "longitude": 24.968644141393636,
+        "rpCode": "AT",
+        "zoomLevel": 3,
+        "key": 106963,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106963"
+    },
+    {
+        "portName": "LEFKADA CHANNEL",
+        "timezoneOffset": 2.0,
+        "latitude": 38.84559895021167,
+        "longitude": 20.72340143969245,
+        "rpCode": "LC",
+        "zoomLevel": 3,
+        "key": 106973,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106973"
+    },
+    {
+        "portName": "KVANHOVDEN PS",
+        "timezoneOffset": 1.0,
+        "latitude": 61.7,
+        "longitude": 4.76,
+        "rpCode": "KQ",
+        "zoomLevel": 4,
+        "key": 106997,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106997"
+    },
+    {
+        "portName": "HAMMARBY LOCK",
+        "timezoneOffset": 1.0,
+        "latitude": 59.3033,
+        "longitude": 18.07936,
+        "rpCode": "HB",
+        "zoomLevel": 3,
+        "key": 109609,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109609"
+    },
+    {
+        "portName": "GRONSUND",
+        "timezoneOffset": 1.0,
+        "latitude": 54.897,
+        "longitude": 12.0475,
+        "rpCode": "GX",
+        "zoomLevel": 3,
+        "key": 109611,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109611"
+    },
+    {
+        "portName": "HAROYFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 62.90433,
+        "longitude": 6.85995,
+        "rpCode": "HF",
+        "zoomLevel": 3,
+        "key": 109612,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109612"
+    },
+    {
+        "portName": "BUEFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 61.2425,
+        "longitude": 4.56,
+        "rpCode": "BF",
+        "zoomLevel": 3,
+        "key": 109614,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109614"
+    },
+    {
+        "portName": "GULF OF ADEN EAST B",
+        "timezoneOffset": 3.0,
+        "latitude": 11.9,
+        "longitude": 44.9937459580855,
+        "rpCode": "A1",
+        "zoomLevel": 2,
+        "key": 107832,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107832"
+    },
+    {
+        "portName": "GULF OF ADEN WEST B",
+        "timezoneOffset": 3.0,
+        "latitude": 14.403847953727496,
+        "longitude": 52.9889137437047,
+        "rpCode": "A2",
+        "zoomLevel": 2,
+        "key": 107833,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107833"
+    },
+    {
+        "portName": "RIO PARANA GUAZU",
+        "timezoneOffset": -3.0,
+        "latitude": -34.0362,
+        "longitude": -58.5956,
+        "rpCode": "GZ",
+        "zoomLevel": 3,
+        "key": 107834,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107834"
+    },
+    {
+        "portName": "RIO PARANA BRAVO",
+        "timezoneOffset": -3.0,
+        "latitude": -33.89912239817226,
+        "longitude": -58.473234288376126,
+        "rpCode": "PB",
+        "zoomLevel": 3,
+        "key": 107835,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107835"
+    },
+    {
+        "portName": "WETAR STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": -8.173652874979016,
+        "longitude": 126.39734101766142,
+        "rpCode": "WS",
+        "zoomLevel": 3,
+        "key": 105453,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105453"
+    },
+    {
+        "portName": "PENGELAP STRAIT",
+        "timezoneOffset": 7.0,
+        "latitude": 0.428068167523869,
+        "longitude": 104.27906438027892,
+        "rpCode": "PS",
+        "zoomLevel": 3,
+        "key": 105470,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105470"
+    },
+    {
+        "portName": "RAVEN CHANNEL",
+        "timezoneOffset": 10.0,
+        "latitude": -10.246671,
+        "longitude": 150.941767,
+        "rpCode": "RA",
+        "zoomLevel": 3,
+        "key": 105471,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105471"
+    },
+    {
+        "portName": "MAGELLAN STRAIT",
+        "timezoneOffset": -3.0,
+        "latitude": -53.86687900000001,
+        "longitude": -70.993731,
+        "rpCode": "MA",
+        "zoomLevel": 2,
+        "key": 102346,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102346"
+    },
+    {
+        "portName": "SARANGANI ISLAND",
+        "timezoneOffset": 8.0,
+        "latitude": 5.174,
+        "longitude": 125.498,
+        "rpCode": "SI",
+        "zoomLevel": 3,
+        "key": 100880,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100880"
+    },
+    {
+        "portName": "SELAT JAILOLO",
+        "timezoneOffset": 9.0,
+        "latitude": 0.10259158708049487,
+        "longitude": 129.1443854612954,
+        "rpCode": "SJ",
+        "zoomLevel": 3,
+        "key": 100832,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100832"
+    },
+    {
+        "portName": "SURIGAO STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 10.583971841473915,
+        "longitude": 125.69100398679952,
+        "rpCode": "SR",
+        "zoomLevel": 2,
+        "key": 100845,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100845"
+    },
+    {
+        "portName": "SKALMEN LH",
+        "timezoneOffset": 1.0,
+        "latitude": 63.52,
+        "longitude": 7.65,
+        "rpCode": "S1",
+        "zoomLevel": 3,
+        "key": 109803,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109803"
+    },
+    {
+        "portName": "SKOMVAER LH",
+        "timezoneOffset": 1.0,
+        "latitude": 67.3,
+        "longitude": 11.7,
+        "rpCode": "S2",
+        "zoomLevel": 3,
+        "key": 109805,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109805"
+    },
+    {
+        "portName": "FLATOYSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 69.0364,
+        "longitude": 16.4971,
+        "rpCode": "FZ",
+        "zoomLevel": 3,
+        "key": 109828,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109828"
+    },
+    {
+        "portName": "MOKSTRAFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 60.0761,
+        "longitude": 5.1027,
+        "rpCode": "M3",
+        "zoomLevel": 4,
+        "key": 109837,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109837"
+    },
+    {
+        "portName": "KARMSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 59.1834,
+        "longitude": 5.3467,
+        "rpCode": "KT",
+        "zoomLevel": 3,
+        "key": 109857,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109857"
+    },
+    {
+        "portName": "PERIM ISLAND",
+        "timezoneOffset": 3.0,
+        "latitude": 12.629905793004534,
+        "longitude": 43.36487287930544,
+        "rpCode": "PI",
+        "zoomLevel": 3,
+        "key": 101643,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101643"
+    },
+    {
+        "portName": "PUNTA NEGRA",
+        "timezoneOffset": -5.0,
+        "latitude": -6.0,
+        "longitude": -81.3892042949811,
+        "rpCode": "PN",
+        "zoomLevel": 3,
+        "key": 101667,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101667"
+    },
+    {
+        "portName": "SEMIRARA ISLANDS",
+        "timezoneOffset": 8.0,
+        "latitude": 12.051023452813352,
+        "longitude": 121.38679008978937,
+        "rpCode": "SM",
+        "zoomLevel": 3,
+        "key": 105280,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105280"
+    },
+    {
+        "portName": "TEN DEGREE CHANNEL",
+        "timezoneOffset": 5.5,
+        "latitude": 10.0,
+        "longitude": 92.5,
+        "rpCode": "TD",
+        "zoomLevel": 3,
+        "key": 105275,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105275"
+    },
+    {
+        "portName": "GASPAR STRAIT",
+        "timezoneOffset": 7.0,
+        "latitude": -3.005999709645379,
+        "longitude": 107.30720954648694,
+        "rpCode": "GA",
+        "zoomLevel": 3,
+        "key": 105276,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105276"
+    },
+    {
+        "portName": "BANGKA STRAIT",
+        "timezoneOffset": 7.0,
+        "latitude": -3.0829139178960623,
+        "longitude": 106.27439789503508,
+        "rpCode": "BK",
+        "zoomLevel": 3,
+        "key": 105277,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105277"
+    },
+    {
+        "portName": "JOHNSTONE STRAIT",
+        "timezoneOffset": -8.0,
+        "latitude": 49.9771931,
+        "longitude": -125.1911211,
+        "rpCode": "JS",
+        "zoomLevel": 3,
+        "key": 105278,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105278"
+    },
+    {
+        "portName": "TABLAS STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 11.862520320324133,
+        "longitude": 121.72823897293894,
+        "rpCode": "TB",
+        "zoomLevel": 3,
+        "key": 105279,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105279"
+    },
+    {
+        "portName": "JANABATAS STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 11.262358176283298,
+        "longitude": 124.99756113711365,
+        "rpCode": "JA",
+        "zoomLevel": 3,
+        "key": 105281,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105281"
+    },
+    {
+        "portName": "KRAMMERSLUIZEN",
+        "timezoneOffset": 1.0,
+        "latitude": 51.6617,
+        "longitude": 4.159,
+        "rpCode": "K4",
+        "zoomLevel": 3,
+        "key": 110467,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110467"
+    },
+    {
+        "portName": "VARTDALSFJORDEN",
+        "timezoneOffset": 1.0,
+        "latitude": 62.3162,
+        "longitude": 6.0793,
+        "rpCode": "VF",
+        "zoomLevel": 3,
+        "key": 108797,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108797"
+    },
+    {
+        "portName": "SKALVER",
+        "timezoneOffset": 1.0,
+        "latitude": 65.86016034748258,
+        "longitude": 12.181888348868892,
+        "rpCode": "SV",
+        "zoomLevel": 3,
+        "key": 108798,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108798"
+    },
+    {
+        "portName": "SAMBARGALANG",
+        "timezoneOffset": 8.0,
+        "latitude": -4.433349293719698,
+        "longitude": 116.20527486323121,
+        "rpCode": "LJ",
+        "zoomLevel": 3,
+        "key": 108042,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108042"
+    },
+    {
+        "portName": "ALICE PASSAGE",
+        "timezoneOffset": -5.0,
+        "latitude": 15.909,
+        "longitude": -79.6,
+        "rpCode": "AX",
+        "zoomLevel": 3,
+        "key": 108045,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108045"
+    },
+    {
+        "portName": "PASMAN CHANNEL",
+        "timezoneOffset": 1.0,
+        "latitude": 44.014490813489374,
+        "longitude": 15.251257962363356,
+        "rpCode": "PM",
+        "zoomLevel": 3,
+        "key": 106742,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106742"
+    },
+    {
+        "portName": "OSOR CHANNEL",
+        "timezoneOffset": 1.0,
+        "latitude": 44.69293284794626,
+        "longitude": 14.392037681307839,
+        "rpCode": "OC",
+        "zoomLevel": 3,
+        "key": 106745,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106745"
+    },
+    {
+        "portName": "ECA NL",
+        "timezoneOffset": -3.5,
+        "latitude": 53.13,
+        "longitude": -49.62,
+        "rpCode": "NL",
+        "zoomLevel": 2,
+        "key": 108414,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108414"
+    },
+    {
+        "portName": "ECA LABRADOR",
+        "timezoneOffset": -3.5,
+        "latitude": 59.95,
+        "longitude": -56.08,
+        "rpCode": "LD",
+        "zoomLevel": 2,
+        "key": 108415,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108415"
+    },
+    {
+        "portName": "ECA GRAND BANKS",
+        "timezoneOffset": -3.5,
+        "latitude": 45.04,
+        "longitude": -48.1,
+        "rpCode": "EB",
+        "zoomLevel": 2,
+        "key": 108416,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108416"
+    },
+    {
+        "portName": "ECA RUPERT",
+        "timezoneOffset": -8.0,
+        "latitude": 51.56,
+        "longitude": -137.62,
+        "rpCode": "ER",
+        "zoomLevel": 2,
+        "key": 108417,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108417"
+    },
+    {
+        "portName": "ENGLISH CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 49.236,
+        "longitude": -5.804,
+        "rpCode": "EC",
+        "zoomLevel": 3,
+        "key": 108418,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108418"
+    },
+    {
+        "portName": "BABUYAN CHANNEL",
+        "timezoneOffset": 8.0,
+        "latitude": 18.690048673940353,
+        "longitude": 121.98394731925177,
+        "rpCode": "BA",
+        "zoomLevel": 3,
+        "key": 104336,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104336"
+    },
+    {
+        "portName": "XIA ZHI MEN",
+        "timezoneOffset": 8.0,
+        "latitude": 29.6842,
+        "longitude": 122.5408,
+        "rpCode": "XZ",
+        "zoomLevel": 3,
+        "key": 108195,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108195"
+    },
+    {
+        "portName": "LITTLE BELT",
+        "timezoneOffset": 1.0,
+        "latitude": 55.546,
+        "longitude": 9.748,
+        "rpCode": "LB",
+        "zoomLevel": 3,
+        "key": 106450,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106450"
+    },
+    {
+        "portName": "SICILY CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 37.323710404042544,
+        "longitude": 11.814921659647203,
+        "rpCode": "SY",
+        "zoomLevel": 3,
+        "key": 106451,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106451"
+    },
+    {
+        "portName": "YTRE STEINSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 61.0534,
+        "longitude": 4.7315,
+        "rpCode": "YT",
+        "zoomLevel": 3,
+        "key": 109070,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109070"
+    },
+    {
+        "portName": "FEDJEOSEN PS",
+        "timezoneOffset": 1.0,
+        "latitude": 60.745,
+        "longitude": 4.6817,
+        "rpCode": "FE",
+        "zoomLevel": 3,
+        "key": 109071,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109071"
+    },
+    {
+        "portName": "FEHMARN SOUND",
+        "timezoneOffset": 1.0,
+        "latitude": 54.40012068794386,
+        "longitude": 11.11159565121682,
+        "rpCode": "FC",
+        "zoomLevel": 5,
+        "key": 110897,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110897"
+    },
+    {
+        "portName": "GIMSOYSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 68.262188,
+        "longitude": 14.252485,
+        "rpCode": "GY",
+        "zoomLevel": 3,
+        "key": 106353,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106353"
+    },
+    {
+        "portName": "BREVES CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": -1.0308849811689664,
+        "longitude": -51.03742804453582,
+        "rpCode": "BV",
+        "zoomLevel": 4,
+        "key": 106604,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106604"
+    },
+    {
+        "portName": "MANIPA STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": -3.3651290817461668,
+        "longitude": 127.38842230043645,
+        "rpCode": "MZ",
+        "zoomLevel": 3,
+        "key": 105472,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105472"
+    },
+    {
+        "portName": "ORESUND",
+        "timezoneOffset": 1.0,
+        "latitude": 55.7338507752396,
+        "longitude": 12.788618170664124,
+        "rpCode": "OR",
+        "zoomLevel": 3,
+        "key": 101836,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101836"
+    },
+    {
+        "portName": "HANKO ARCHIPELAGO",
+        "timezoneOffset": 2.0,
+        "latitude": 59.798496200309096,
+        "longitude": 22.87244600293652,
+        "rpCode": "HA",
+        "zoomLevel": 3,
+        "key": 108516,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108516"
+    },
+    {
+        "portName": "UTO LH",
+        "timezoneOffset": 2.0,
+        "latitude": 59.780231,
+        "longitude": 21.3488287,
+        "rpCode": "UT",
+        "zoomLevel": 3,
+        "key": 108526,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108526"
+    },
+    {
+        "portName": "RAFTSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 68.415984,
+        "longitude": 15.133994,
+        "rpCode": "RF",
+        "zoomLevel": 3,
+        "key": 105265,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105265"
+    },
+    {
+        "portName": "GISUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 69.22841448969555,
+        "longitude": 17.964306728548582,
+        "rpCode": "GT",
+        "zoomLevel": 3,
+        "key": 105266,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105266"
+    },
+    {
+        "portName": "ALENUIHAHA CHANNEL",
+        "timezoneOffset": 0.0,
+        "latitude": 20.46,
+        "longitude": -155.976,
+        "rpCode": "AL",
+        "zoomLevel": 3,
+        "key": 105268,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105268"
+    },
+    {
+        "portName": "SKAW",
+        "timezoneOffset": 1.0,
+        "latitude": 57.755,
+        "longitude": 10.828,
+        "rpCode": "SK",
+        "zoomLevel": 2,
+        "key": 100834,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100834"
+    },
+    {
+        "portName": "SALAT TIWORO",
+        "timezoneOffset": 8.0,
+        "latitude": -4.5674,
+        "longitude": 122.2825,
+        "rpCode": "TW",
+        "zoomLevel": 3,
+        "key": 110719,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110719"
+    },
+    {
+        "portName": "BREIDSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 67.89093592920337,
+        "longitude": 14.727895899592326,
+        "rpCode": "BD",
+        "zoomLevel": 3,
+        "key": 108021,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108021"
+    },
+    {
+        "portName": "INDIAN OCEAN 12S 78E",
+        "timezoneOffset": 0.0,
+        "latitude": -12.0,
+        "longitude": 78.0,
+        "rpCode": "I5",
+        "zoomLevel": 2,
+        "key": 108049,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108049"
+    },
+    {
+        "portName": "WEST OF NPI",
+        "timezoneOffset": -5.0,
+        "latitude": 25.017,
+        "longitude": -77.59,
+        "rpCode": "N2",
+        "zoomLevel": 3,
+        "key": 110725,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110725"
+    },
+    {
+        "portName": "IRISH SEA",
+        "timezoneOffset": 0.0,
+        "latitude": 52.967,
+        "longitude": -5.596,
+        "rpCode": "IR",
+        "zoomLevel": 3,
+        "key": 110748,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110748"
+    },
+    {
+        "portName": "ISANOTSKI STRAIT",
+        "timezoneOffset": -9.0,
+        "latitude": 54.815,
+        "longitude": -163.368,
+        "rpCode": "I6",
+        "zoomLevel": 3,
+        "key": 110752,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110752"
+    },
+    {
+        "portName": "KURIL STRAIT",
+        "timezoneOffset": 12.0,
+        "latitude": 50.835807,
+        "longitude": 156.608379,
+        "rpCode": "KU",
+        "zoomLevel": 3,
+        "key": 102610,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/102610"
+    },
+    {
+        "portName": "BOUGAINVILLE STRAIT",
+        "timezoneOffset": 10.0,
+        "latitude": -6.681548235298751,
+        "longitude": 156.25638540048584,
+        "rpCode": "BG",
+        "zoomLevel": 3,
+        "key": 104159,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104159"
+    },
+    {
+        "portName": "BELLE ISLE",
+        "timezoneOffset": -3.5,
+        "latitude": 51.627,
+        "longitude": -56.243,
+        "rpCode": "BI",
+        "zoomLevel": 2,
+        "key": 104162,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104162"
+    },
+    {
+        "portName": "VITIAZ STRAIT",
+        "timezoneOffset": 10.0,
+        "latitude": -5.954524583818613,
+        "longitude": 147.74237946080723,
+        "rpCode": "VS",
+        "zoomLevel": 3,
+        "key": 100181,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100181"
+    },
+    {
+        "portName": "SELAT DAMPIER",
+        "timezoneOffset": 9.0,
+        "latitude": -0.713,
+        "longitude": 131.254,
+        "rpCode": "SD",
+        "zoomLevel": 2,
+        "key": 100972,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100972"
+    },
+    {
+        "portName": "SELAT SELAYAR",
+        "timezoneOffset": 8.0,
+        "latitude": -5.708681116598399,
+        "longitude": 120.48079491778289,
+        "rpCode": "SE",
+        "zoomLevel": 3,
+        "key": 100973,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100973"
+    },
+    {
+        "portName": "VREESWIJK CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 52.026866,
+        "longitude": 5.114647,
+        "rpCode": "VC",
+        "zoomLevel": 3,
+        "key": 106413,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106413"
+    },
+    {
+        "portName": "LEL MERWEDE CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 51.922402,
+        "longitude": 5.016864,
+        "rpCode": "MD",
+        "zoomLevel": 3,
+        "key": 106414,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106414"
+    },
+    {
+        "portName": "NEDER RIJN",
+        "timezoneOffset": 1.0,
+        "latitude": 51.955083,
+        "longitude": 5.942018,
+        "rpCode": "NN",
+        "zoomLevel": 3,
+        "key": 106415,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106415"
+    },
+    {
+        "portName": "WILHELMINA CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 51.520035,
+        "longitude": 5.646731,
+        "rpCode": "WH",
+        "zoomLevel": 3,
+        "key": 106417,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106417"
+    },
+    {
+        "portName": "VOLKERAK LOCK",
+        "timezoneOffset": 1.0,
+        "latitude": 51.661615,
+        "longitude": 4.159798,
+        "rpCode": "VL",
+        "zoomLevel": 3,
+        "key": 106418,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106418"
+    },
+    {
+        "portName": "JUAN DE FUCA STRAIT",
+        "timezoneOffset": 0.0,
+        "latitude": 48.308,
+        "longitude": -124.038,
+        "rpCode": "JF",
+        "zoomLevel": 3,
+        "key": 105510,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105510"
+    },
+    {
+        "portName": "DUNCAN PASSAGE",
+        "timezoneOffset": 5.5,
+        "latitude": 11.061281872231614,
+        "longitude": 92.70573969995175,
+        "rpCode": "DU",
+        "zoomLevel": 3,
+        "key": 104668,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104668"
+    },
+    {
+        "portName": "JINTOTOLO CHANNEL",
+        "timezoneOffset": 8.0,
+        "latitude": 11.816,
+        "longitude": 123.083,
+        "rpCode": "JC",
+        "zoomLevel": 3,
+        "key": 104670,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104670"
+    },
+    {
+        "portName": "CALAVITE PASSAGE",
+        "timezoneOffset": 8.0,
+        "latitude": 13.577,
+        "longitude": 120.324,
+        "rpCode": "CE",
+        "zoomLevel": 3,
+        "key": 104671,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104671"
+    },
+    {
+        "portName": "GUIMARAS STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 10.498089738889435,
+        "longitude": 122.7718969115196,
+        "rpCode": "GU",
+        "zoomLevel": 3,
+        "key": 104673,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104673"
+    },
+    {
+        "portName": "CEBU STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": 9.595,
+        "longitude": 123.614,
+        "rpCode": "CS",
+        "zoomLevel": 3,
+        "key": 104674,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104674"
+    },
+    {
+        "portName": "ETOROFU STRAIT",
+        "timezoneOffset": 11.0,
+        "latitude": 45.55,
+        "longitude": 149.166,
+        "rpCode": "EU",
+        "zoomLevel": 3,
+        "key": 104675,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104675"
+    },
+    {
+        "portName": "AMCHITKA PASS",
+        "timezoneOffset": -10.0,
+        "latitude": 51.336,
+        "longitude": -179.898,
+        "rpCode": "AI",
+        "zoomLevel": 3,
+        "key": 104676,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104676"
+    },
+    {
+        "portName": "ADAK STRAIT",
+        "timezoneOffset": -10.0,
+        "latitude": 51.624,
+        "longitude": -177.11,
+        "rpCode": "AD",
+        "zoomLevel": 3,
+        "key": 104677,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104677"
+    },
+    {
+        "portName": "BEAGLE CHANNEL",
+        "timezoneOffset": -3.0,
+        "latitude": -55.111,
+        "longitude": -66.51,
+        "rpCode": "BE",
+        "zoomLevel": 3,
+        "key": 104678,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104678"
+    },
+    {
+        "portName": "CHALKIS BRIDGE",
+        "timezoneOffset": 2.0,
+        "latitude": 38.46278744264898,
+        "longitude": 23.589360201163196,
+        "rpCode": "CB",
+        "zoomLevel": 3,
+        "key": 104679,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104679"
+    },
+    {
+        "portName": "TJELDSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 68.5545,
+        "longitude": 16.46,
+        "rpCode": "TJ",
+        "zoomLevel": 3,
+        "key": 104680,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104680"
+    },
+    {
+        "portName": "CANSO STRAIT",
+        "timezoneOffset": -4.0,
+        "latitude": 45.609805,
+        "longitude": -61.379235,
+        "rpCode": "CN",
+        "zoomLevel": 3,
+        "key": 104681,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/104681"
+    },
+    {
+        "portName": "PENTLAND FIRTH",
+        "timezoneOffset": 0.0,
+        "latitude": 58.718,
+        "longitude": -3.093,
+        "rpCode": "PF",
+        "zoomLevel": 2,
+        "key": 101639,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/101639"
+    },
+    {
+        "portName": "KVERNOYRASA",
+        "timezoneOffset": 1.0,
+        "latitude": 64.5332,
+        "longitude": 10.818,
+        "rpCode": "K3",
+        "zoomLevel": 4,
+        "key": 110179,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110179"
+    },
+    {
+        "portName": "CANAL IRIGOYEN",
+        "timezoneOffset": -3.0,
+        "latitude": -34.0218,
+        "longitude": -58.9826,
+        "rpCode": "IG",
+        "zoomLevel": 3,
+        "key": 108214,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/108214"
+    },
+    {
+        "portName": "CHUGUL PASS",
+        "timezoneOffset": -10.0,
+        "latitude": 51.879509,
+        "longitude": -175.803714,
+        "rpCode": "CG",
+        "zoomLevel": 3,
+        "key": 106469,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106469"
+    },
+    {
+        "portName": "KAGALASKA STRAIT",
+        "timezoneOffset": -10.0,
+        "latitude": 51.77085431289968,
+        "longitude": -176.41168610201115,
+        "rpCode": "KG",
+        "zoomLevel": 3,
+        "key": 106470,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106470"
+    },
+    {
+        "portName": "NOTSUKE STRAIT",
+        "timezoneOffset": 9.0,
+        "latitude": 43.66,
+        "longitude": 145.374,
+        "rpCode": "NO",
+        "zoomLevel": 3,
+        "key": 106476,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106476"
+    },
+    {
+        "portName": "BOTE STRAIT",
+        "timezoneOffset": 8.0,
+        "latitude": -1.922677844502159,
+        "longitude": 123.94523521959965,
+        "rpCode": "BT",
+        "zoomLevel": 3,
+        "key": 105444,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105444"
+    },
+    {
+        "portName": "LONG ISLAND SOUND",
+        "timezoneOffset": -5.0,
+        "latitude": 41.2355162,
+        "longitude": -72.20613718805137,
+        "rpCode": "LO",
+        "zoomLevel": 3,
+        "key": 105969,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105969"
+    },
+    {
+        "portName": "TOPPSUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 68.876,
+        "longitude": 16.433,
+        "rpCode": "TT",
+        "zoomLevel": 3,
+        "key": 110622,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110622"
+    },
+    {
+        "portName": "CALEDONIAN CANAL",
+        "timezoneOffset": 0.0,
+        "latitude": 57.12254,
+        "longitude": -4.72226,
+        "rpCode": "C3",
+        "zoomLevel": 3,
+        "key": 110628,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110628"
+    },
+    {
+        "portName": "LOCH NESS",
+        "timezoneOffset": 0.0,
+        "latitude": 57.28024,
+        "longitude": -4.47841,
+        "rpCode": "LN",
+        "zoomLevel": 4,
+        "key": 110629,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110629"
+    },
+    {
+        "portName": "LOCH LOCHY",
+        "timezoneOffset": 0.0,
+        "latitude": 56.972,
+        "longitude": -4.903,
+        "rpCode": "LL",
+        "zoomLevel": 4,
+        "key": 110630,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110630"
+    },
+    {
+        "portName": "SILDESKJÆR",
+        "timezoneOffset": 1.0,
+        "latitude": 67.8019,
+        "longitude": 14.7366,
+        "rpCode": "S9",
+        "zoomLevel": 4,
+        "key": 110642,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110642"
+    },
+    {
+        "portName": "PRINCE CHRISTIAN S",
+        "timezoneOffset": -4.0,
+        "latitude": 60.1461,
+        "longitude": -44.1673,
+        "rpCode": "P7",
+        "zoomLevel": 3,
+        "key": 110655,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110655"
+    },
+    {
+        "portName": "STORSEISUNDET",
+        "timezoneOffset": 1.0,
+        "latitude": 63.0168,
+        "longitude": 7.3545,
+        "rpCode": "01",
+        "zoomLevel": 4,
+        "key": 110674,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110674"
+    },
+    {
+        "portName": "LAKE ONEGA",
+        "timezoneOffset": 3.0,
+        "latitude": 63.19065,
+        "longitude": 34.88662,
+        "rpCode": "ON",
+        "zoomLevel": 3,
+        "key": 110682,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110682"
+    },
+    {
+        "portName": "ECA MENDOCINO",
+        "timezoneOffset": -8.0,
+        "latitude": 40.0,
+        "longitude": -129.0,
+        "rpCode": "E4",
+        "zoomLevel": 2,
+        "key": 110692,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110692"
+    },
+    {
+        "portName": "BURGUNNGURA ISLAND",
+        "timezoneOffset": 9.5,
+        "latitude": -11.5556,
+        "longitude": 136.059,
+        "rpCode": "03",
+        "zoomLevel": 3,
+        "key": 110696,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110696"
+    },
+    {
+        "portName": "NORTH HOLLAND CANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 52.557398,
+        "longitude": 4.780511,
+        "rpCode": "NH",
+        "zoomLevel": 3,
+        "key": 106402,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106402"
+    },
+    {
+        "portName": "CHARLEROI KANAL",
+        "timezoneOffset": 1.0,
+        "latitude": 50.411822,
+        "longitude": 4.424143,
+        "rpCode": "CK",
+        "zoomLevel": 3,
+        "key": 106406,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106406"
+    },
+    {
+        "portName": "CAPE YORK",
+        "timezoneOffset": 10.0,
+        "latitude": -10.7101,
+        "longitude": 142.6392,
+        "rpCode": "YO",
+        "zoomLevel": 3,
+        "key": 107081,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107081"
+    },
+    {
+        "portName": "FAIR ISLE",
+        "timezoneOffset": 0.0,
+        "latitude": 59.45,
+        "longitude": -2.15,
+        "rpCode": "FR",
+        "zoomLevel": 3,
+        "key": 107942,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/107942"
+    },
+    {
+        "portName": "ILLINOIS MICHIGAN",
+        "timezoneOffset": -6.0,
+        "latitude": 41.322125,
+        "longitude": -89.114779,
+        "rpCode": "IM",
+        "zoomLevel": 3,
+        "key": 106569,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106569"
+    },
+    {
+        "portName": "MOHOLMEN",
+        "timezoneOffset": 1.0,
+        "latitude": 66.84208027104121,
+        "longitude": 12.987577976222175,
+        "rpCode": "M2",
+        "zoomLevel": 3,
+        "key": 109260,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/109260"
+    },
+    {
+        "portName": "SOLOMON SEA",
+        "timezoneOffset": 10.0,
+        "latitude": -4.239680351866195,
+        "longitude": 153.36337393006448,
+        "rpCode": "SO",
+        "zoomLevel": 3,
+        "key": 100779,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/100779"
+    },
+    {
+        "portName": "STAVNES",
+        "timezoneOffset": 1.0,
+        "latitude": 61.410352476995016,
+        "longitude": 4.96991897261414,
+        "rpCode": "XS",
+        "zoomLevel": 3,
+        "key": 106874,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/106874"
+    },
+    {
+        "portName": "HINATUAN PASSAGE",
+        "timezoneOffset": 8.0,
+        "latitude": 9.811912290345258,
+        "longitude": 125.63678075812665,
+        "rpCode": "HI",
+        "zoomLevel": 3,
+        "key": 105522,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/105522"
+    },
+    {
+        "portName": "WEST OF BLIKSVAER",
+        "timezoneOffset": 1.0,
+        "latitude": 67.2884,
+        "longitude": 13.8503,
+        "rpCode": "WB",
+        "zoomLevel": 4,
+        "key": 110172,
+        "self": "https://oceonix.dataloy.com:9143/ws/rest/Port/110172"
+    }
+]

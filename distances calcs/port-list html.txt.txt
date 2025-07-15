@@ -1,0 +1,84 @@
+div class=list
+
+  div class=before-ports-added-info ng-if=model.list.length == 0
+    h3{{'before_ports_added_info'  translate}}h3
+  div
+
+  div class=ddt-table-class-padding ng-if=model.list.length  0
+    table class=ddt-table-class align=center
+      tr
+        th{{'portName'  translate}}th
+        th{{'nauticMiles'  translate}}th
+        th{{'days'  translate}}th
+
+        thth
+      tr
+    table
+  div
+  
+  div dragula='portList' dragula-model=model.list class=list-group scroll-list ng-if=model.list.length  0
+    div class= ng-repeat=port in model.list track by $index
+      a class=list-group-item
+        table class=ddt-table-class
+          tr class=bold grey-left-bold-border
+            td
+              h4 style=margin-bottom-3px; padding-left10px class=list-group-item-heading{{port.displayName}}h4
+            td
+            td ng-if=!$last{{port.totalDistance  number0}}td
+            td ng-if=!$last{{(port.totalDistancespeed)24  number2}}td
+            span class=port-list-item-cross ng-click=removePort($index)i class=fa fa-times-circle aria-hidden=trueispan
+          tr
+          !--tr
+              td class=grey-small-text grey-left-bold-border style=padding-left10px ng-if=$firstETD {{model.list[0].voyageStartMillis  shortDate}}td
+            tr--
+          tr
+            td class=grey-small-text grey-left-bold-border style=padding-left10px ng-if=!$firstETA {{port.eta  shortDate}}td
+          tr
+          tr class=grey-text grey-left-bold-border ng-if=!$last ng-show=showEca
+            td style=padding-left12px{{'eca'  translate}}td
+            td{{port.ecaDistance  number  0}}td
+            td{{(port.ecaDistance speed)24  number  2}}td
+          tr
+          tr class=grey-text grey-left-bold-border ng-if=!$last ng-show=showEca
+            td style=padding-left12px{{'nonEca'  translate}}td
+            td{{port.totalDistance - port.ecaDistance  number 0}}td
+            td{{((port.totalDistance - port.ecaDistance)speed)24  number 2}}td
+          tr
+        table
+      a
+    div
+
+
+  div
+
+  div class=absolute-100px-bottom
+    table class=ddt-table-class id=total-table align=center ng-if=totalDistance  0 && ongoingUpdates  1
+      tr class=bold
+        td
+          h4 class=list-group-item-heading{{'total'  translate}}h4
+        td
+        td{{totalDistance  number  0}}td
+        td{{(totalDistancespeed)24  number2}}td
+        tdtd
+      tr
+      tr class=grey-text ng-show=showEca
+        td{{'eca'  translate}}td
+        td{{totalEcaDistance  number  0}}td
+        td{{(totalEcaDistance speed)24  number  2}}td
+      tr
+      tr class=grey-text ng-show=showEca
+        td{{'nonEca'  translate}}td
+        td{{totalDistance - totalEcaDistance  number  0}}td
+        td{{((totalDistance - totalEcaDistance)speed)24  number 2}}td
+      tr
+    table
+    h3 class=loading-text ng-if=ongoingUpdates  0
+      i class=fa fa-cog fa-spin fa-2x fa-fwi
+      span class=sr-onlyLoading...span
+      Loading...{{timecounter}}
+    h3
+  div
+
+
+
+div

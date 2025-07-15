@@ -1,0 +1,49 @@
+<div class="routing-point-details container-fluid">
+
+    <div class="routing-point-details-header">
+        Waypoint Details
+    </div>
+
+    <div class="routing-point-details-content">
+        <div class="row waypoint-item" ng-repeat="terminal in terminalList track by $index">
+            <div class="waypoint-item-header row">
+                <div class="waypoint-header-field">{{terminal.portName}}</div>
+                <div class="waypoint-header-field"><span class="label-item">ETA</span>{{terminal.eta}}</div>
+            </div>
+            <!--   <div class="row">
+                <div class="col-xs-3 waypoint-header-field">Distance/ETA</div>
+                <div class="col-xs-3 waypoint-content-field">{{terminal.distance}} <span class="unit">nm</span></div>
+                <div class="col-xs-3 waypoint-content-field">{{terminal.eta}}</div>
+            </div>-->
+
+            <div class="waypoint-item-content row">
+                <div class="row">
+                    <div class="waypoint-content-header-field">Location (Lat/Long)</div>
+                    <div class="waypoint-content-field">{{terminal.lat}}, {{terminal.lon}}</div>
+                </div>
+                <div class="row">
+                    <div class="waypoint-content-header-field">Distance</div>
+                    <div class="waypoint-content-field">{{terminal.distance}} <span class="unit">nm</span></div>
+                </div>
+
+            </div>
+
+            <!--<div class="col-xs-4 waypoint-item-header">
+                <div class="row">Waypoint</div>
+                <div class="row">Latitude</div>
+                <div class="row">Longitude</div>
+                <div class="row">Distance</div>
+                <div class="row">ETA</div>
+            </div>
+
+            <div class="col-xs-8 waypoint-item-content">
+                <div class="row">{{terminal.portName}}</div>
+                <div class="row">{{terminal.lat}}</div>
+                <div class="row">{{terminal.lon}}</div>
+                <div class="row">{{terminal.distance}}</div>
+                <div class="row">{{terminal.eta}}</div>
+            </div>-->
+        </div>
+    </div>
+
+</div>
